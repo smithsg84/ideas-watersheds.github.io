@@ -1,0 +1,46 @@
+- name:  About
+  link: /about/
+  dropdown:
+    - name: Project Leadership
+      link: /pages/leadership
+    - name: Team Members
+      link: /pages/team
+    - name: IDEAS-Productivity
+      link: https://ideas-productivity.org/
+    - name: SFAs
+      link: /pages/sfa
+- name: Research Activities
+  link: /research/
+  dropdown:
+    - name: LBNL SFA
+      link: /pages/lbnl-sfa
+    - name: ORNL SFA
+      link: /pages/ornl-sfa
+    - name: PNNL SFA
+      link: /pages/pnnl-sfa
+    - name: CONUS
+      link: /pages/conus
+    - name: Reaction Network
+      link: /pages/reaction
+    - name: Shared Infrastructure
+      link: /pages/infrastructure
+- name: Software Ecosystem
+  link: /software/
+  dropdown:
+    - name: Code Release
+      link: /software/release
+    - name: Workflow
+      link: /software/workflow
+- name: Publications
+  link: /publications/
+- name: Community Resources
+  link: /community/
+  dropdown:
+    - name: Seminars
+      link: /pages/seminar
+    - name: Best Practices
+      link: /pages/best-practices
+    - name: Events 
+      link: /pages/events
+    - name: Job Postings
+      link: /pages/job-postings

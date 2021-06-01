@@ -1,0 +1,8 @@
+- name: Home
+  link: /
+- name: Software Ecosystem
+  link: /software/
+- name: Research Activities
+  link: /research/
+- name: Contact
+  link: /contact/
