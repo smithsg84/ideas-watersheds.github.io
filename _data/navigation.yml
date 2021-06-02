@@ -28,11 +28,11 @@
   link: /software/
   dropdown:
     - name: Codes
-      link: /software/codes 
+      link: /pages/codes 
     - name: Code Release
-      link: /software/release
+      link: /pages/release
     - name: Workflow
-      link: /software/workflow
+      link: /pages/workflow
 - name: Publications
   link: /publications/
 - name: Community Resources
