@@ -40,9 +40,9 @@
   dropdown:
     - name: Seminars
       link: /pages/seminar
-    - name: Best Practices
-      link: /pages/best-practices
+    - name: HPC Best Practices
+      link: https://ideas-productivity.org/events/hpc-best-practices-webinars/
     - name: Events 
       link: /pages/events
     - name: Job Postings
-      link: /pages/job-postings
+      link: /pages/job-posting
