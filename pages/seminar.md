@@ -1,7 +1,7 @@
 ---
 layout: page
 title: IDEAS-Watersheds Seminars
-permalink: /seminar/
+permalink: /pages/seminar/
 hero_image: /img/black.jpg
 hero_height: is_fullheight
 
