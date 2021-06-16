@@ -1,0 +1,44 @@
+- label: Primary Codes
+  items:
+    - name: Alquimia
+      link: ../pages/code-pages/alquimia
+    - name: Amanzi
+      link: ../pages/code-pages/amanzi
+    - name: Amanzi-ATS
+      link: ../pages/code-pages/ats
+    - name: Crunchflow
+      link: ../pages/code-pages/crunchflow
+    - name: ParFlow
+      link: ../pages/code-pages/parflow
+    - name: PFLOTRAN
+      link: ../pages/code-pages/pflotran
+    - name: EcoSLIM
+      link: ../pages/code-pages/ecoslim
+- label: Primary Workflow Tools
+  items:
+    - name: TINerator
+      link: ../pages/code-pages/tinerator
+    - name: Watershed Workflow
+      link: ../pages/code-pages/watershedworkflow
+    - name: PriorityFlow
+      link: ../pages/code-pages/priorityflow
+#  - label: Third Party Codes
+#   items:
+#     - name: SWAT
+#       link: /another-example-item/
+#     - name: WRF-HYDRO
+#       link: /parent-item/
+#     - name: OpenFoam
+#       link: /parent-item/
+#     - name: PRMS
+#       link: /parent-item/
+#     - name: MODFLOW
+#       link: /parent-item/
+#     - name: GSFLOW
+#       link: /parent-item/
+#     - name: Chombo
+#       link: /parent-item/
+# - label: Third Party Workflow Tools
+#   items:
+#     - name: LaGriT
+#       link: /another-example-item/

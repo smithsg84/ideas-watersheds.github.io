@@ -27,8 +27,10 @@
 - name: Software Ecosystem
   link: /software/
   dropdown:
-    - name: Codes
+    - name: IDEAS Watersheds Codes
       link: /pages/codes 
+    - name: IDEAS Watersheds Workflow Tools
+      link: /pages/workflowtools
     - name: Code Release
       link: /pages/release
     - name: Workflow
