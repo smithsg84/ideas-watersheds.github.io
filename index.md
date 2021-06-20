@@ -3,6 +3,7 @@ title: IDEAS-Watersheds
 subtitle: Accelerating watershed science through a community-driven software ecosystem
 layout: page
 hero_image: /img/SBR.jpg
+hero_height: is-small
 comments: false
 show_sidebar: true
 callouts: home_callouts
