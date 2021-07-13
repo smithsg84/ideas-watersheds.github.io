@@ -7,7 +7,7 @@ show_sidebar: false
 menubar: softwares
 ---
 
-#### TINerator ([Github](https://github.com/lanl/LaGriT/tree/tinerator))
+#### TINerator [<i class="fas fa-book"></i>](https://raw.githack.com/lanl/LaGriT/tinerator/html/index.html) [<i class="fab fa-github"></i>](https://github.com/lanl/LaGriT/tree/tinerator)
 
 TINerator is a tool for the fast creation of extruded and refined meshes from DEM and GIS data, developed at Los Alamos National Laboratory to aid in hydrogeological simulations.
 

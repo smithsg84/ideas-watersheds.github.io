@@ -7,6 +7,6 @@ show_sidebar: false
 menubar: softwares
 ---
 
-#### PriorityFlow ([Github](https://github.com/lecondon/PriorityFlow))
+#### PriorityFlow [<i class="fab fa-github"></i>](https://github.com/lecondon/PriorityFlow)
 
 PriorityFlow is a toolkit for topographic processing for hydrologic models. This repo contains an R package and a set of workflow examples (see instructions below).
