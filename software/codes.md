@@ -28,27 +28,27 @@ hero_height: is_fullheight
         </center></div>
 
         <div><center>
-        <h3><a href="/codes/amanzi"> Amanzi  </a></h3>
+        <h3><a href="/software/codes/amanzi"> Amanzi  </a></h3>
         A flexible and extensible flow and reactive transport simulation capability for environmental applications.
         </center></div>
 
         <div><center>
-        <h3><a href="/codes/ats">Advanced Terrestrial Simulator (ATS)  </a></h3>
+        <h3><a href="/software/codes/ats">Advanced Terrestrial Simulator (ATS)  </a></h3>
         A code for solving ecosystem-based, integrated, distributed hydrology.
         </center></div>
 
         <div><center>
-        <h3><a href="/codes/crunchflow"> CrunchFlow   </a></h3>
+        <h3><a href="/software/codes/crunchflow"> CrunchFlow   </a></h3>
         An open-source software package for simulating reactive flow and transport.
         </center></div>
 
         <div><center>
-        <h3><a href="/codes/ecoslim"> EcoSLIM  </a></h3>
+        <h3><a href="/software/codes/ecoslim"> EcoSLIM  </a></h3>
         A Lagrangian particle-tracking model designed to operate with integrated hydrologic models.
         </center></div>
 
         <div><center>
-        <h3><a href="/codes/parflow"> ParFlow </a></h3>
+        <h3><a href="/software/codes/parflow"> ParFlow </a></h3>
         The integrated watershed model, solves saturated and variably saturated flow in three dimensions.
         </center></div>
 
@@ -58,7 +58,7 @@ hero_height: is_fullheight
         </center></div> -->
         
         <div><center>
-        <h3><a href="/codes/pflotran"> PFLOTRAN </a></h3>
+        <h3><a href="/software/codes/pflotran"> PFLOTRAN </a></h3>
         An open-source, state-of-the-art massively parallel subsurface flow and reactive transport code.
         </center></div>
     </div>
