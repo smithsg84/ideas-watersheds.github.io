@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Job Postings
+permalink: /community/job-posting
 hero_image: /img/black.jpg
 hero_height: is_fullheight
 
