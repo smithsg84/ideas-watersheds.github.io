@@ -1,27 +1,27 @@
 - label: Primary Codes
   items:
     - name: Alquimia
-      link: ../pages/code-pages/alquimia
+      link: ../software/codes/alquimia
     - name: Amanzi
-      link: ../pages/code-pages/amanzi
+      link: ../software/codes/amanzi
     - name: Amanzi-ATS
-      link: ../pages/code-pages/ats
+      link: ../software/codes/ats
     - name: Crunchflow
-      link: ../pages/code-pages/crunchflow
+      link: ../software/codes/crunchflow
     - name: ParFlow
-      link: ../pages/code-pages/parflow
+      link: ../software/codes/parflow
     - name: PFLOTRAN
-      link: ../pages/code-pages/pflotran
+      link: ../software/codes/pflotran
     - name: EcoSLIM
-      link: ../pages/code-pages/ecoslim
+      link: ../software/codes/ecoslim
 - label: Primary Workflow Tools
   items:
     - name: TINerator
-      link: ../pages/code-pages/tinerator
+      link: ../software/codes/tinerator
     - name: Watershed Workflow
-      link: ../pages/code-pages/watershedworkflow
+      link: ../software/codes/watershedworkflow
     - name: PriorityFlow
-      link: ../pages/code-pages/priorityflow
+      link: ../software/codes/priorityflow
 #  - label: Third Party Codes
 #   items:
 #     - name: SWAT
