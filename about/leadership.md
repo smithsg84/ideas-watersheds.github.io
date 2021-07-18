@@ -1,6 +1,6 @@
 ---
 layout: page
-title: IDEAS-Watersheds Project leadership
+title: Project Leadership
 permalink: /about/leadership
 hero_image: /img/black.jpg
 hero_height: is_fullheight
