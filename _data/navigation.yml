@@ -2,13 +2,13 @@
   link: /about/
   dropdown:
     - name: Project Leadership
-      link: /pages/leadership
+      link: /about/leadership
     - name: Team Members
-      link: /pages/team
+      link: /about/team
     - name: IDEAS-Productivity
       link: https://ideas-productivity.org/
     - name: SFAs
-      link: /pages/sfa
+      link: /about/sfa
 - name: Research Activities
   link: /research/
   dropdown:
