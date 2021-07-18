@@ -28,13 +28,11 @@
   link: /software/
   dropdown:
     - name: IDEAS Watersheds Codes
-      link: /pages/codes 
+      link: /software/codes 
     - name: IDEAS Watersheds Workflow Tools
-      link: /pages/workflowtools
-    - name: Code Release
-      link: /pages/release
-    - name: Workflow
-      link: /pages/workflow
+      link: /software/workflowtools
+    - name: Community Policy
+      link: /software/policies   
 - name: Publications
   link: /publications/
 - name: Community Resources
