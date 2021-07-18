@@ -9,14 +9,14 @@ hero_height: is_fullheight
 IDEAS-Watersheds brings together efforts across multiple labs and universities.  The matrixed organizational structure connects the Research Activities to ensure effective integration across teams.
 
 <p align="center">
-  <img width="500" src="../img/OrgChart-v7.png">
+  <img width="800" src="../img/OrgChart-v7.png">
 </p>
 
 <h2>Leadership Team</h2>
 <table>
 <tbody>
 <tr>
-<td><img class="alignleft" src="../img/photos/dmoulton.png" alt="David Moulton" width="150" height="150"></a></td>
+<td><img class="alignleft" src="../img/photos/dmoulton.png" alt="David Moulton" width="150" height="150"></td>
 <td valign="top"><strong>J. David Moulton, Project PI</strong><br />
 (Shared Infrastructure Activities Lead, Training/Community Building/Outreach Lead)<br />
 <em>Los Alamos National Laboratory</em></td>
