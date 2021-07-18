@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-permalink: /about/about.md
+permalink: /about/about/
 hero_image: ../img/black.jpg
 hero_height: is_fullheight
 
