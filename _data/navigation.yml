@@ -13,17 +13,17 @@
   link: /research/
   dropdown:
     - name: LBNL SFA
-      link: /pages/lbnl-sfa
+      link: /research/lbnl-sfa
     - name: ORNL SFA
-      link: /pages/ornl-sfa
+      link: /research/ornl-sfa
     - name: PNNL SFA
-      link: /pages/pnnl-sfa
+      link: /research/pnnl-sfa
     - name: CONUS
-      link: /pages/conus
+      link: /research/conus
     - name: Reaction Network
-      link: /pages/reaction
+      link: /research/reaction
     - name: Shared Infrastructure
-      link: /pages/infrastructure
+      link: /research/infrastructure
 - name: Software Ecosystem
   link: /software/
   dropdown:
