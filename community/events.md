@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Events 
-permalink: /pages/events/
 hero_image: /img/black.jpg
 hero_height: is_fullheight
 
