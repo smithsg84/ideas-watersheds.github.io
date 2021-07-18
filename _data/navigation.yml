@@ -39,10 +39,10 @@
   link: /community/
   dropdown:
     - name: Seminars
-      link: /pages/seminar
+      link: /community/seminar
     - name: HPC Best Practices
       link: https://ideas-productivity.org/events/hpc-best-practices-webinars/
     - name: Events 
-      link: /pages/events
+      link: /community/events
     - name: Job Postings
-      link: /pages/job-posting
+      link: /community/job-posting
