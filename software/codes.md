@@ -23,7 +23,7 @@ hero_height: is_fullheight
     <div class = "wrapper">
         
         <div><center>
-        <h3><a href="/codes/alquimia"> Alquimia </a></h3>
+        <h3><a href="/software/codes/alquimia"> Alquimia </a></h3>
         A biogeochemistry Application Program Interface and wrapper library. 
         </center></div>
 
