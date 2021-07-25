@@ -10,7 +10,7 @@ items:
   - title: Software Ecosystem
     description: >
       Community driven software
-    icon: favicon.png
+    icon: fa-download
     call_to_action_name: Learn More
     call_to_action_link: /software-ecosystem/
   - title: Seminars
