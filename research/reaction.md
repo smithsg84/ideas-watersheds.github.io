@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Reaction Network Activity 
-hero_image: /../img/black.jpg
+hero_image: /../img/hero_research.jpg
 hero_height: is_fullheight
 
 ---

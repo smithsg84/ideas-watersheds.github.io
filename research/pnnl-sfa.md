@@ -2,7 +2,7 @@
 layout: page
 title: River Corridor SFA
 subtitle: Columbia River Use Case (PNNL)
-hero_image: /../img/black.jpg
+hero_image: /../img/hero_research.jpg
 hero_height: is_fullheight
 
 ---
