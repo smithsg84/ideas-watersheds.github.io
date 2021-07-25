@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Community Software Policies
-permalink: /software/policies
+permalink: /software-ecosystem/policies
 hero_image: /img/black.jpg
 hero_height: is_fullheight
 
