@@ -6,9 +6,6 @@ hero_image: /img/hero_logo.jpg
 hero_height: is_fullheight
 
 ---
-<p align="right">
-  <img width="300" src="/img/IDEAS-Watersheds-logo.jpg">
-</p>
 
 The **Interoperable Design of Extreme-scale Application Software** ([IDEAS][IDEAS]) project was initiated in 2014 to help SBR and other scientists in the Office of Biological and Environmental Research (BER) increase software development productivity—a key aspect of overall scientific productivity—through a new interdisciplinary and agile approach to creating sustainable, reliable, high-performance scientific software. 
 
