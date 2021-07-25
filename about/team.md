@@ -2,7 +2,7 @@
 layout: page
 title: Project Team
 permalink: /about/team
-hero_image: /img/black.jpg
+hero_image: /img/hero_logo.jpg
 hero_height: is_fullheight
 
 ---
