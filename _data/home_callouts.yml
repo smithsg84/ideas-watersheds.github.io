@@ -10,7 +10,7 @@ items:
   - title: Software Ecosystem
     description: >
       Community driven software
-    icon: /img/IDEAS_watershed-logo_blueText.png
+    icon: favicon.png
     call_to_action_name: Learn More
     call_to_action_link: /software-ecosystem/
   - title: Seminars
