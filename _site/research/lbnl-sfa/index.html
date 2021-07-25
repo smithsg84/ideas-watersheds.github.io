@@ -20,19 +20,19 @@
         <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma-social@1/bin/bulma-social.min.css">
     
     <!-- Begin Jekyll SEO tag v2.7.1 -->
-<title>Community Resources | IDEAS-Watersheds</title>
+<title>Watershed Function SFA | IDEAS-Watersheds</title>
 <meta name="generator" content="Jekyll v3.9.0" />
-<meta property="og:title" content="Community Resources" />
+<meta property="og:title" content="Watershed Function SFA" />
 <meta property="og:locale" content="en" />
 <meta name="description" content="Accelerating watershed science through a community-driven software ecosystem" />
 <meta property="og:description" content="Accelerating watershed science through a community-driven software ecosystem" />
-<link rel="canonical" href="http://localhost:4000/community/" />
-<meta property="og:url" content="http://localhost:4000/community/" />
+<link rel="canonical" href="http://localhost:4000/research/lbnl-sfa/" />
+<meta property="og:url" content="http://localhost:4000/research/lbnl-sfa/" />
 <meta property="og:site_name" content="IDEAS-Watersheds" />
 <meta name="twitter:card" content="summary" />
-<meta property="twitter:title" content="Community Resources" />
+<meta property="twitter:title" content="Watershed Function SFA" />
 <script type="application/ld+json">
-{"description":"Accelerating watershed science through a community-driven software ecosystem","url":"http://localhost:4000/community/","headline":"Community Resources","@type":"WebPage","@context":"https://schema.org"}</script>
+{"description":"Accelerating watershed science through a community-driven software ecosystem","url":"http://localhost:4000/research/lbnl-sfa/","headline":"Watershed Function SFA","@type":"WebPage","@context":"https://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 <!-- head scripts --></head>
 
@@ -113,7 +113,7 @@
                 
                     
                     <div class="navbar-item has-dropdown is-hoverable ">
-                        <a href="/community/" class="navbar-link is-active">Community Resources</a>
+                        <a href="/community/" class="navbar-link ">Community Resources</a>
                         <div class="navbar-dropdown">
                             
                             <a href="/community/seminar" class="navbar-item ">Seminars</a>
@@ -140,13 +140,13 @@
 </nav>
 
     
-        <section class="hero  is_fullheight  is-bold is-primary"  style="background: url('/img/black.jpg') no-repeat center center; background-size: cover;" >
+        <section class="hero  is_fullheight  is-bold is-primary"  style="background: url('/../img/black.jpg') no-repeat center center; background-size: cover;" >
     <div class="hero-body ">
         <div class="container">
             <p class="subtitle is-3">&nbsp;  </p>
             <p class="subtitle is-3">&nbsp;  </p>
-            <h1 class="title is-2" style="color:#e3ebf1;">Community Resources</h1>
-            <p class="subtitle is-4" style="color:#e3ebf1;"></p>
+            <h1 class="title is-2" style="color:#e3ebf1;">Watershed Function SFA</h1>
+            <p class="subtitle is-4" style="color:#e3ebf1;">East River User Case (LBNL)</p>
             
         </div>
     </div>
@@ -165,9 +165,118 @@
                     
                     
                     
+    
+    
+    <div class="columns is-multiline">
+        <div class="column is-12">
+            <p class="title is-3 has-text-centered"></p>
+        </div>
+        
+        <div class="column is-4-desktop is-6-tablet">
+            <div class="card">
+                <div class="card-image">
+                    <div x-data="{ open: false }">
+    <a @click="open = true" title="View large image">
+        <figure class="image is-4by3">
+            <img src="http://localhost:4000/img/east_river.png" alt="East River Watershed">
+        </figure>
+    </a>
+    <div class="modal" :class="{ 'is-active': open }">
+        <div class="modal-background" @click="open = false"></div>
+        <div class="modal-content">
+            
+                <img src="http://localhost:4000/img/east_river.png" alt="East River Watershed">
+            
+        </div>
+        <button class="modal-close is-large" aria-label="close" @click="{ open = false }"></button>
+    </div>
+</div>
+
+                </div>
+                <div class="card-content">
+                    <div class="content">
+                        <p>Digital elevation map of the East River Watershed at 0.5 m resolution zooming into a subsystem comprising hillslopes and the floodplain, and further into a 2-meander subsection within the floodplain.</p>
+
+                    </div>
+
+                </div>
+            </div>
+        </div>
+        
+        <div class="column is-4-desktop is-6-tablet">
+            <div class="card">
+                <div class="card-image">
+                    <div x-data="{ open: false }">
+    <a @click="open = true" title="View large image">
+        <figure class="image is-4by3">
+            <img src="http://localhost:4000/img/LBNL_SFA_variable_resolution.jpg" alt="Variable-resolution unstructured mesh for the East River watershed">
+        </figure>
+    </a>
+    <div class="modal" :class="{ 'is-active': open }">
+        <div class="modal-background" @click="open = false"></div>
+        <div class="modal-content">
+            
+                <img src="http://localhost:4000/img/LBNL_SFA_variable_resolution.jpg%200" alt="Variable-resolution unstructured mesh for the East River watershed">
+            
+        </div>
+        <button class="modal-close is-large" aria-label="close" @click="{ open = false }"></button>
+    </div>
+</div>
+
+                </div>
+                <div class="card-content">
+                    <div class="content">
+                        <p>Variable-resolution unstructured mesh for the East River watershed with refinement along stream corridors and in the Lower Triangle Region produced using IDEAS-Watersheds shared infrastructure. PriorityFlow was used for topographic processing, a wavelet-based method was applied to flow metrics to guide the refinement, and LaGriT-based TINerator was used to generate the final computational mesh.</p>
+
+                    </div>
+
+                </div>
+            </div>
+        </div>
+        
+        <div class="column is-4-desktop is-6-tablet">
+            <div class="card">
+                <div class="card-image">
+                    <div x-data="{ open: false }">
+    <a @click="open = true" title="View large image">
+        <figure class="image is-4by3">
+            <img src="http://localhost:4000/img/LBNL_SFA_simulated_surface.png" alt="Simulated surface water depth in the East River watershed">
+        </figure>
+    </a>
+    <div class="modal" :class="{ 'is-active': open }">
+        <div class="modal-background" @click="open = false"></div>
+        <div class="modal-content">
+            
+                <img src="http://localhost:4000/img/LBNL_SFA_simulated_surface.png" alt="Simulated surface water depth in the East River watershed">
+            
+        </div>
+        <button class="modal-close is-large" aria-label="close" @click="{ open = false }"></button>
+    </div>
+</div>
+
+                </div>
+                <div class="card-content">
+                    <div class="content">
+                        <p>Simulated surface water depth in the East River watershed with the variable resolution mesh above (spin-up results) (Özgen-Xian et al., in progress) using the ATS simulator, supported as part of the IDEAS Watersheds software ecosystem, which includes integrated hydrology but also reactive transport capabilities (Xu et al, in preparation).</p>
+
+                    </div>
+
+                </div>
+            </div>
+        </div>
+        
+    </div>
+    
+
                     
 <div class="content">
-    <p>A list of awesome community resources</p>
+    <p>The Watershed Function SFA seeks to determine how perturbations to mountainous watersheds (e.g., floods, drought, early snowmelt) impact the downstream delivery of water, nutrients, carbon, and metals. The study area for this use case will be the East River Watershed (<a href="https://acsess.onlinelibrary.wiley.com/doi/full/10.2136/vzj2018.03.0061">Hubbard et al., 2018</a>), a representative mountainous watershed in the Upper Colorado River Basin. The domain contains pronounced gradients in hydrology, geomorphology, or type of biome that challenge conventional watershed hydrobiogeochemical models. Currently, no single model can capture all relevant processes across this domain at fine resolution.</p>
+
+<p>Aggregation of the system behavior across subsystems and scales is a central need for the Watershed Function SFA. For example, it seeks to evaluate what the contribution of hillslope or floodplain processes is to net exports of the East River.</p>
+
+<p>IDEAS-Watersheds Partnership with the Watershed Function SFA at LBNL aims to develop a multiscale modeling framework that will allow us to consider processes at different resolutions within the watershed, including both the software tools and workflows required to enable this framework.</p>
+
+<p>Development will be primarily based on the Advanced Terrestrial Simulator (ATS) with a specific emphasis in the newly available reactive transport capabilities. This involves the Alquimia geochemical interface and the geochemical engines PFLOTRAN and CrunchFlow. A central aspect of the work will also be the meshing tools that will support the generation of unstructured meshes with variable resolutions. We intend to develop a simulation capability that relies on multiple resolution unstructured meshes to dynamically adjust the process resolution and efficiently perform the simulation over large spatial extents.</p>
 
 
 </div>
