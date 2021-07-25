@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Software Ecosystem
-permalink: /software/
+permalink: /software-ecosystem/
 hero_image: /img/black.jpg
 hero_height: is_fullheight
 
