@@ -25,14 +25,14 @@
     - name: Shared Infrastructure
       link: /research/infrastructure
 - name: Software Ecosystem
-  link: /software/
+  link: /software-ecosystem/
   dropdown:
     - name: IDEAS Watersheds Codes
-      link: /software/codes 
+      link: /software-ecosystem/codes 
     - name: IDEAS Watersheds Workflow Tools
-      link: /software/workflowtools
+      link: /software-ecosystem/workflowtools
     - name: Community Policy
-      link: /software/policies   
+      link: /software-ecosystem/policies   
 - name: Publications
   link: /publications/
 - name: Community Resources
