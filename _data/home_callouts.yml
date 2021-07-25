@@ -1,18 +1,18 @@
 style: is-light
 height: is-small
 items:
-  - title: Software Ecosystem
-    description: >
-      Community driven software
-    icon: fa-code
-    call_to_action_name: Learn More
-    call_to_action_link: /software-ecosystem/
-  - title: Training
+   - title: Training
     description: >
       Latest software and HPC training
     icon: fa-user-circle
     call_to_action_name: Learn More
     call_to_action_link: /community/events/
+  - title: Software Ecosystem
+    description: >
+      Community driven software
+    icon: /img/IDEAS_watershed-logo_blueText.png
+    call_to_action_name: Learn More
+    call_to_action_link: /software-ecosystem/
   - title: Seminars
     description: >
       IDEAS-Watersheds discussions
