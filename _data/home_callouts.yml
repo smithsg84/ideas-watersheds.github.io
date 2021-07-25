@@ -6,18 +6,18 @@ items:
       Community driven software
     icon: fa-code
     call_to_action_name: Learn More
-    call_to_action_link: /software/
+    call_to_action_link: /software-ecosystem/
   - title: Training
     description: >
       Latest software and HPC training
     icon: fa-user-circle
     call_to_action_name: Learn More
-    call_to_action_link: /events/
+    call_to_action_link: /community/events/
   - title: Seminars
     description: >
       IDEAS-Watersheds discussions
     icon: fa-comments
     call_to_action_name: Learn More
-    call_to_action_link: /seminar/
+    call_to_action_link: /community/seminar/
 
 #https://aksakalli.github.io/jekyll-doc-theme/docs/font-awesome/
