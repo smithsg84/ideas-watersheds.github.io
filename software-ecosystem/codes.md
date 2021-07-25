@@ -24,31 +24,37 @@ hero_height: is_fullheight
         
         <div><center>
         <h3><a href="/software-ecosystem/codes/alquimia"> Alquimia </a></h3>
+        <img src="../../img/code_alquimia.png" align="center"><br>
         A biogeochemistry Application Program Interface and wrapper library. 
         </center></div>
 
         <div><center>
         <h3><a href="/software-ecosystem/codes/amanzi"> Amanzi  </a></h3>
+        <img src="../../img/code_amanzi.png" align="center"><br>
         A flexible and extensible flow and reactive transport simulation capability for environmental applications.
         </center></div>
 
         <div><center>
-        <h3><a href="/software-ecosystem/codes/ats">Advanced Terrestrial Simulator (ATS)  </a></h3>
-        A code for solving ecosystem-based, integrated, distributed hydrology.
+        <h3><a href="/software-ecosystem/codes/ats">Amanzi-ATS  </a></h3>
+        <img src="../../img/code_ats.png" align="center"><br>
+        Advanced Terrestrial Simulator (ATS) - for solving ecosystem-based, integrated, distributed hydrology.
         </center></div>
 
         <div><center>
         <h3><a href="/software-ecosystem/codes/crunchflow"> CrunchFlow   </a></h3>
+        <img src="../../img/code_crunchflow.png" align="center"><br>
         An open-source software package for simulating reactive flow and transport.
         </center></div>
 
         <div><center>
         <h3><a href="/software-ecosystem/codes/ecoslim"> EcoSLIM  </a></h3>
+        <img src="../../img/code_ecoslim.png" align="center"><br>
         A Lagrangian particle-tracking model designed to operate with integrated hydrologic models.
         </center></div>
 
         <div><center>
         <h3><a href="/software-ecosystem/codes/parflow"> ParFlow </a></h3>
+        <img src="../../img/code_parflow.png" align="center"><br>
         The integrated watershed model, solves saturated and variably saturated flow in three dimensions.
         </center></div>
 
@@ -59,6 +65,7 @@ hero_height: is_fullheight
         
         <div><center>
         <h3><a href="/software-ecosystem/codes/pflotran"> PFLOTRAN </a></h3>
+        <img src="../../img/code_pflotran.png" align="center"><br>
         An open-source, state-of-the-art massively parallel subsurface flow and reactive transport code.
         </center></div>
     </div>
