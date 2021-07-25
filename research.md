@@ -2,7 +2,7 @@
 layout: page
 title: Research Activities
 permalink: /research/
-hero_image: /img/black.jpg
+hero_image: /img/hero_research.jpg
 hero_height: is_fullheight
 
 ---
