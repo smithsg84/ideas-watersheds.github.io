@@ -1,10 +1,10 @@
 ---
 layout: page
 title: TINerator
-hero_image: /../img/black.jpg
-hero_height: is_fullheight
 show_sidebar: false
 menubar: softwares
+hero_image: /../img/black.jpg
+hero_height: is_fullheight
 ---
 
 #### TINerator [<i class="fas fa-book"></i>](https://raw.githack.com/lanl/LaGriT/tinerator/html/index.html) [<i class="fab fa-github"></i>](https://github.com/lanl/LaGriT/tree/tinerator)

@@ -1,10 +1,10 @@
 ---
 layout: page
 title: PriorityFlow
-hero_image: /../img/black.jpg
-hero_height: is_fullheight
 show_sidebar: false
 menubar: softwares
+hero_image: /../img/black.jpg
+hero_height: is_fullheight
 ---
 
 #### PriorityFlow [<i class="fab fa-github"></i>](https://github.com/lecondon/PriorityFlow)

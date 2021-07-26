@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Watershed Workflow
-hero_image: /../img/black.jpg
-hero_height: is_fullheight
+title: WatershedWorkflow
 show_sidebar: false
 menubar: softwares
+hero_image: /../img/black.jpg
+hero_height: is_fullheight
 ---
 
 #### Watershed Workflow [<i class="fas fa-book"></i>](https://ecoon.github.io/watershed-workflow/build/html/index.html) [<i class="fab fa-github"></i>](https://github.com/ecoon/watershed-workflow)

@@ -1,10 +1,10 @@
 ---
 layout: page
 title: Advanced Terrestrial Simulator
-hero_image: /../img/black.jpg
-hero_height: is_fullheight
 show_sidebar: false
 menubar: softwares
+hero_image: /../img/black.jpg
+hero_height: is_fullheight
 ---
 
 #### Advanced Terrestrial Simulator (ATS) [<i class="fas fa-book"></i>](https://amanzi.github.io/) [<i class="fab fa-github"></i>](https://github.com/amanzi/ats)

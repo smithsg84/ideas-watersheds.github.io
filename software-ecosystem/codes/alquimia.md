@@ -5,7 +5,6 @@ show_sidebar: false
 menubar: softwares
 hero_image: /../img/black.jpg
 hero_height: is_fullheight
-
 ---
 
 #### Alquimia [<i class="fab fa-github"></i>](https://github.com/LBL-EESA/alquimia-dev/)

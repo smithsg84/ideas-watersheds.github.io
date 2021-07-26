@@ -1,0 +1,43 @@
+<article class="media">
+    <figure class="media-left">
+    {% if codeinfo.avatar %}
+        <p class="image is-48x48">
+            <img src="https://bulma.io/images/placeholders/128x128.png">
+        </p>
+    {% else %}
+        <div class="icon is-large">
+            <i class="fas fa-user fa-2x"></i>
+        </div>
+    {% endif %}
+    </figure>
+    <div class="media-content">
+      <div class="content">
+        <p>
+          <strong>{{ codeinfo.name }}</strong> <small>{{ codeinfo.date }}</small>
+          <br>
+          {{ codeinfo.title }}
+          <br>
+          {{ codeinfo.description }}
+        </p>
+      </div>
+      {% if codeinfo.rating %}
+        {% include rating.html rating=codeinfo.rating align="has-text-left" %}
+      {% endif %}
+    </div>
+
+    <div class="columns is-multiline is-centered">
+          <div class="box has-text-centered">
+              <p class="title is-5">
+                  {{ codeinfo.first_name }}
+              </p>
+              <p class="subtitle is-6">
+                  {% if sponsor.profile %}
+                  <a href="{{ sponsor.profile }}" class="is-link is-small"> {{codeinfo.affiliatons}}</a>
+                  {% else %}
+                  &nbsp;
+                  {% endif %}
+              </p>
+          </div>
+      </div>
+  </div>
+  </article>

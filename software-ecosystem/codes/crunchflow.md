@@ -1,10 +1,10 @@
 ---
 layout: page
 title: CrunchFlow
-hero_image: /../img/black.jpg
-hero_height: is_fullheight
 show_sidebar: false
 menubar: softwares
+hero_image: /../img/black.jpg
+hero_height: is_fullheight
 ---
 
 #### CrunchFlow [<i class="fab fa-bitbucket"></i>](https://bitbucket.org/crunchflow/crunchtope-dev/wiki/Home)

@@ -1,0 +1,18 @@
+layout: default
+---
+
+{% if page.toc %}
+    {% assign contentsTitle = page.toc_title | default: 'Contents' %}
+    {% include toc.html html=content class='menu-list' h_min=2 h_max=3 contents_title=contentsTitle %}
+{% endif %}
+<div class="content">
+    {{ content }}
+</div>
+
+{% if site.data.metadata[page.code] %}
+<div class="column is-12">
+    {% for codeinfo in site.data.metadata[page.code] %}
+    {% include metadatashow.html %}
+    {% endfor %}
+</div>
+{% endif %}

@@ -1,0 +1,65 @@
+- tier_name: ParFlow <a href="https://parflow.org/"><i class="fas fa-book"></i></a> <a href="https://github.com/parflow/parflow"><i class="fab fa-github"></i></a>
+  size: small
+  description: |-
+    The integrated watershed model, solves saturated and variably saturated flow in three dimensions using either an orthogonal (Jones & Woodward, 2001; Kollet & Maxwell, 2006) or a terrain-following, semi-structured mesh that enables fine vertical resolution near the land surface and deep (~1 km) confined and unconfined aquifers. ParFlow models dynamic surface and subsurface flow solving the simplified shallow water equations implicitly coupled to Richards’ equation; this allows for two-way exchanges and intermittency in stream and river flow (Kollet & Maxwell, 2006). ParFlow uses robust linear (Ashby & Falgout, 1996) and nonlinear (Jones & Woodward, 2001; Osei-Kuffuor et al., 2014) solution techniques and exhibits efficient parallel scaling to large processor counts, more than 450K cores (Kollet et al., 2010), enabling very large-extent simulations with fine spatial resolution.
+  sponsors:
+    - name: Steven Smith
+      profile: Lawrence Livermore National Lab. (LLNL), Livermore, CA (United States)
+    - name: Reed Maxwell
+      profile: Princeton Univ., NJ (United States)
+    - name: Ian Ferguson
+      profile: Colorado School of Mines, Golden, CO (United States)
+    - name: Fabian Gasper
+      profile: Forschungszentrum Juelich (Germany)
+    - name: Nick Engdahl
+      profile: Washington State Univ., Pullman, WA (United States)
+    - name: Jaro Hokkanen
+      profile: Forschungszentrum Juelich (Germany)
+    - name: Patrick Avery
+      profile: Kitware, Inc., Clifton Park, NY (United States)
+    - name: Sebastien Jourdain
+      profile: Kitware, Inc., Clifton Park, NY (United States)
+    - name: Garrett Rapp
+      profile: Kitware, Inc., Clifton Park, NY (United States)
+    - name: Laura Condon
+      profile: University of Arizona
+    - name: Ketan Kulkarni
+      profile: Forschungszentrum Juelich (Germany)
+    - name: Basile Hector
+      profile: The Institute for Geosciences and Environmental research (IGE), Grenoble, France
+    - name: David Thompson
+      profile: Kitware, Inc., Clifton Park, NY (United States)
+    - name: Jackson Swilley
+      profile: Colorado School of Mines, Golden, CO (United States)
+    - name: Calla Chennault
+      profile: Princeton Univ., NJ (United States)
+    - name: Ethan Coon
+      profile: Oak Ridge National Laboratory
+    - name: Ian Bertolacci
+      profile: University of Arizona
+    - name: Joe Beisman
+      profile: Colorado School of Mines, Golden, CO (United States)
+    - name: José Fonseca
+      profile: CEA Saclay
+    - name: Sebastian Lührs
+      profile: Forschungszentrum Juelich (Germany)
+    - name: Vineet Bansal
+      profile: Princeton University
+    - name: Carol Woodward
+      profile: Lawrence Livermore National Lab. (LLNL), Livermore, CA (United States)
+    - name: Robert Falgout
+      profile: Lawrence Livermore National Lab. (LLNL), Livermore, CA (United States)
+    - name: Steve Ashby
+      profile: Lawrence Livermore National Lab. (LLNL), Livermore, CA (United States)
+    - name: Andrew Tompson
+      profile: Lawrence Livermore National Lab. (LLNL), Livermore, CA (United States)
+    - name: Stefan Bollet
+      profile: University of Bonn (Germany)
+    - name: William Bosl
+      profile: Harvard Medical School, Boston, MA (United States)
+    - name: Chuck Baldwin
+      profile: Lawrence Livermore National Lab. (LLNL), Livermore, CA (United States)
+    - name: Richard Hornung
+      profile: Lawrence Livermore National Lab. (LLNL), Livermore, CA (United States)
+    - name: Michael Burke
+      profile: Boise State Univ., ID (United States)
