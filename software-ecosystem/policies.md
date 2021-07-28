@@ -6,7 +6,7 @@ hero_image: /img/black.jpg
 hero_height: is_fullheight
 
 ---
-<h2>IDEAS-Watersheds Software Policies</h2>
+<h2>IDEAS-Watersheds Software Policies (DRAFT)</h2>
 
 The IDEAS-Watersheds Software Ecosystem policies are intended to enhance collaboration and coordination across independently-developed products to provide an enhanced high-performance software stack.
 
