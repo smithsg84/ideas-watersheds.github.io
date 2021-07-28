@@ -56,6 +56,9 @@
 <loc>http://localhost:4000/software-ecosystem/codes/parflow/</loc>
 </url>
 <url>
+<loc>http://localhost:4000/testing/parflow/</loc>
+</url>
+<url>
 <loc>http://localhost:4000/software-ecosystem/codes/pflotran/</loc>
 </url>
 <url>
@@ -96,5 +99,9 @@
 </url>
 <url>
 <loc>http://localhost:4000/software-ecosystem/workflowtools/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/testing/metadata.html</loc>
+<lastmod>2021-07-28T11:09:22-05:00</lastmod>
 </url>
 </urlset>
