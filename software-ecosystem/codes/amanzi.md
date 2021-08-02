@@ -17,6 +17,6 @@ These performance runs were conducted utilizing LANL's Darwin HPC cluster, enfas
 
 This was done to showcase and compare the speed at which each CPU completed the tutorial problem. The problem utilized for these performance runs was the second tutorial problem featured in Amanzi's website, named "Transient vadose zone flow and Tc-99 transport tutorial problem". The problem itself is about how low-level radioactive waste containing Tc-99 was dumped into two unlined cribs, and how the goal is to predict the concentration of Tc-99 at the water table in 2100. Amanzi then simulates the evolution of the Tc-99 plume over time.
 
-![SpeedUp Graph](/img/amanzi_speed_up.png)
+![SpeedUp Graph](/../../img/amanzi_speed_up.PNG)
 
-![Average Time Graph](/img/amanzi_average_times.png)
+![Average Time Graph](/../../img/amanzi_average_times.PNG)
