@@ -15,26 +15,29 @@ hero_height: is_fullheight
 **DOE Code Citation:** {{ site.data.parflow.links.href }} <br>
 **Licenses:**  {{ site.data.parflow.licenses }} <br>
 
-## Links
+### Links
 **Website:** {{ site.data.parflow.documentation_url }} <br>
 **Documentation:** {{ site.data.parflow.documentation_url }} <br>
 **Repository:**  {{ site.data.parflow.repository_link}}  <br>
 **Docker Image:**  
 
-## Roles in IDEAS-Watersheds Software Ecosystem
+### Roles in IDEAS-Watersheds Software Ecosystem
 
 **Capabilities provided:**
+
 **Capabilities shared:**
+
 **Capabilities used:**
+
 **Example applications:**
 
-## Developers 
+### Developers 
 
 {% for developer in site.data.parflow.developers %} 
 {{ developer.first_name }} {{ developer.last_name }} 
 {% endfor %}
 
-## Repository Analytics
+### Repository Analytics
 
 To Do
 
