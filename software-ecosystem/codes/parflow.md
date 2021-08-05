@@ -7,13 +7,15 @@ hero_image: /../img/black.jpg
 hero_height: is_fullheight
 ---
 
-#### ParFlow [<i class="fas fa-book"></i>](https://parflow.org/) [<i class="fab fa-github"></i>](https://github.com/parflow/parflow)
+<h1>{{ site.data.parflow.software_title }} [<i class="fas fa-book"></i>](https://parflow.org/) [<i class="fab fa-github"></i>](https://github.com/parflow/parflow) </h1>
 
 {{ site.data.parflow.description }}
 
-#### Developers
+<h2> Developers </h2>
 
 {% for developer in site.data.parflow.developers %}
-<p>{{ developer.first_name }} {{ developer.last_name }} <br>
-{{ developer.affiliations }} <br> </p>
+<p>{{ developer.first_name }} {{ developer.last_name }},
 {% endfor %}
+  
+Repository:  {{ site.data.parflow.repository_link}}  
+DOI:  {{ site.data.parflow.doi }}
