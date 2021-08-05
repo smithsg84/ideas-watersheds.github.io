@@ -11,33 +11,34 @@ hero_height: is_fullheight
 
 {{ site.data.parflow.description }} 
 
-**DOI:**  {{ site.data.parflow.doi }} <br>
+**DOI:**  [{{ site.data.parflow.doi }}]({{ site.data.parflow.doi }} ) <br>
 **Licenses:**  {{ site.data.parflow.licenses }} <br>
+
+***
 
 ### Links
 
 **Website:** [{{ site.data.parflow.documentation_url }}]({{ site.data.parflow.documentation_url }}) <br>
-**Documentation:** {{ site.data.parflow.documentation_url }} <br>
-**Repository:**  {{ site.data.parflow.repository_link}}  <br>
+**Documentation:** [{{ site.data.parflow.documentation_url }}]({{ site.data.parflow.documentation_url }}) <br>
+**Repository:**  [{{ site.data.parflow.repository_link}}]({{ site.data.parflow.repository_link}})  <br>
 **Docker Image:**  
 
 ### Roles in IDEAS-Watersheds Software Ecosystem
 
-**Capabilities provided:**
-
-**Capabilities shared:**
-
-**Capabilities used:**
-
+**Capabilities provided:** <br>
+**Capabilities shared:** <br>
+**Capabilities used:** <br>
 **Example applications:**
-
-### Developers 
-
-{% for developer in site.data.parflow.developers %} 
-{{ developer.first_name }} {{ developer.last_name }} 
-{% endfor %}
 
 ### Repository Analytics
 
 To Do
+
+### Developers 
+
+{% for developer in site.data.parflow.developers %} 
+> {{ developer.first_name }} {{ developer.last_name }} 
+{% endfor %}
+
+
 
