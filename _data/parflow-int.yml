@@ -1,4 +1,6 @@
 hero_image: 
+contact: "Steve Smith, LLNL"
+contact_email: "smith84@llnl.gov"
 docker: "https://www.parflow.org"
 capabilities_provided: "e.g., PFLOTRAN is a Subsurface Flow and Reactive Transport Code"
 capabilities_shared: "e.g., PFLOTRAN shares geochemistry, ParFlow shares PF-CLM"
