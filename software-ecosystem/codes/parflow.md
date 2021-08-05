@@ -12,6 +12,7 @@ hero_height: is_fullheight
 {{ site.data.parflow.description }} 
 
 **Contact:** {{ site.data.parflow-int.contact}}, {{ site.data.parflow-int.contact_email }}
+
 **DOI:**  [{{ site.data.parflow.doi }}]({{ site.data.parflow.doi }} ) <br>
 **Licenses:**  {{ site.data.parflow.licenses }} <br>
 
