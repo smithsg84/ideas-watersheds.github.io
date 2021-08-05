@@ -21,7 +21,7 @@ hero_height: is_fullheight
 **Repository:**  {{ site.data.parflow.repository_link}}  <br>
 **Docker Image:**  
 
-## Rolese in IDEAS-Watersheds Software Ecosystem
+## Roles in IDEAS-Watersheds Software Ecosystem
 
 **Capabilities provided:**
 **Capabilities shared:**
