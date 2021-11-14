@@ -13,8 +13,8 @@ IDEAS-Watershed is organized around six Research Activities to address important
   <img width="800" src="/img/SBRSFA_testbeds.jpg">
 </p>
 
-# Three Partnership Activities with SBR’s interdisciplinary SFAs 
-The three Partnership Activities, each undertaken jointly with one of SBR’s interdisciplinary Science Focus Areas (SFAs) (LBNL, ORNL, PNNL), addresses biogeochemical cycling in streams across a wide range of stream orders in disparate climates and land-use conditions, from
+# Three Partnership Activities with ESS’s interdisciplinary SFAs 
+The three Partnership Activities, each undertaken jointly with one of ESS’s interdisciplinary Science Focus Areas (SFAs) (LBNL, ORNL, PNNL), addresses biogeochemical cycling in streams across a wide range of stream orders in disparate climates and land-use conditions, from
 
 - **LBNL Watershed Function SFA: East River Use Case** – a pristine mountainous headwater catchment
 - **ORNL Critical Interfaces SFA: East Fork Poplar Creek Use Case** – a fourth-order mercury-contaminated stream in deciduous broadleaf forest in a semitropical humid climate
