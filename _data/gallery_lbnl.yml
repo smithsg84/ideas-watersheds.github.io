@@ -6,7 +6,7 @@
       description: Digital elevation map of the East River Watershed at 0.5 m resolution zooming into a subsystem comprising hillslopes and the floodplain, and further into a 2-meander subsection within the floodplain.
       ratio: is-4by3
     - link: /../img/LBNL_SFA_variable_resolution.jpg 
-      large_link: /../img/LBNL_SFA_variable_resolution.jpg 0
+      large_link: /../img/LBNL_SFA_variable_resolution.jpg
       alt: Variable-resolution unstructured mesh for the East River watershed
       description: Variable-resolution unstructured mesh for the East River watershed with refinement along stream corridors and in the Lower Triangle Region produced using IDEAS-Watersheds shared infrastructure. PriorityFlow was used for topographic processing, a wavelet-based method was applied to flow metrics to guide the refinement, and LaGriT-based TINerator was used to generate the final computational mesh.
       ratio: is-4by3
