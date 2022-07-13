@@ -4,7 +4,7 @@
       link: ../software-ecosystem/codes/alquimia
     - name: Amanzi
       link: ../software-ecosystem/codes/amanzi
-    - name: Amanzi-ATS
+    - name: ATS
       link: ../software-ecosystem/codes/ats
     - name: Crunchflow
       link: ../software-ecosystem/codes/crunchflow

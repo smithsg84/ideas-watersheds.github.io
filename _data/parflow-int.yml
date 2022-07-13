@@ -1,7 +1,22 @@
 hero_image: 
-contact: "Steve Smith, LLNL"
+
+contact: "Steve Smith"
+contact_institution: "LLNL"
 contact_email: "smith84@llnl.gov"
-docker: "https://www.parflow.org"
+
+landing_page: "https://parflow.org"
+repository_url: "https://github.com/parflow/parflow"
+documentation_url: "https://parflow.org/#documentation"
+
+description: "ParFlow is an open-source, modular, parallel watershed flow model. It
+  includes fully-integrated overland flow, the ability to simulate complex topography,
+  geology and heterogeneity and coupled land-surface processes including the land-energy
+  budget, biogeochemistry and snow (via CLM). It is multi-platform and runs with
+  a common I/O structure from laptop to supercomputer. ParFlow is the result of
+  a long, multi-institutional development history and is now a collaborative effort
+  between CSM, LLNL, UniBonn and UCB. ParFlow has been coupled to the mesoscale,
+  meteorological code ARPS and the NCAR code WRF."
+
 capabilities_provided: "e.g., PFLOTRAN is a Subsurface Flow and Reactive Transport Code"
 capabilities_shared: "e.g., PFLOTRAN shares geochemistry, ParFlow shares PF-CLM"
 capabilities_used: "e.g., ATS uses PFLOTRAN and CrunchFlow Geochemistry through Alquimia"

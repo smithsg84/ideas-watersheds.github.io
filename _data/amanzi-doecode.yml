@@ -1,0 +1,110 @@
+---
+code_id: 62080
+site_ownership_code: "LANL"
+open_source: true
+landing_page: "https://www.lanl.gov/projects/feynman-center/deploying-innovation/intellectual-property/software-tools/open-source-software.php"
+accessibility: "ON"
+software_type: "S"
+developers:
+- email: ""
+  orcid: ""
+  first_name: "David"
+  last_name: "Moulton"
+  middle_name: ""
+  affiliations: []
+- email: ""
+  orcid: ""
+  first_name: "Konstantin"
+  last_name: "Lipnikov"
+  middle_name: ""
+  affiliations: []
+- email: ""
+  orcid: ""
+  first_name: "Daniil"
+  last_name: "Svyatsky"
+  middle_name: ""
+  affiliations: []
+- email: ""
+  orcid: ""
+  first_name: "Rao"
+  last_name: "Garimella"
+  middle_name: ""
+  affiliations: []
+- email: ""
+  orcid: ""
+  first_name: "Markus"
+  last_name: "Berndt"
+  middle_name: ""
+  affiliations: []
+- email: ""
+  orcid: ""
+  first_name: "Daniel"
+  last_name: "Livingston"
+  middle_name: ""
+  affiliations: []
+- email: ""
+  orcid: ""
+  first_name: "Dylan"
+  last_name: "Harp"
+  middle_name: ""
+  affiliations: []
+- email: ""
+  orcid: ""
+  first_name: "Evgeny (Eugene)"
+  last_name: "Kikinzon"
+  middle_name: ""
+  affiliations: []
+- email: ""
+  orcid: ""
+  first_name: "Julien"
+  last_name: "Loiseau"
+  middle_name: ""
+  affiliations: []
+- email: ""
+  orcid: ""
+  first_name: "Svetlana"
+  last_name: "Tokarev"
+  middle_name: ""
+  affiliations: []
+contributors: []
+sponsoring_organizations: []
+contributing_organizations: []
+research_organizations: []
+related_identifiers: []
+software_title: "Amanzi 1.x"
+description: "Amanzi provides a flexible and extensible multiphase, multicomponent,\
+  \ flow and reactive transport simulation capability for environmental applications.\
+  \ It also includes thermal and geomechanical processes in the subsurface. It includes\
+  \ toolsets for meshing infrastructure, discretizations, and solvers for the resulting\
+  \ nonlinear systems of equations. The framework Arcos (LA-CC-14-053), provides the\
+  \ internal data management, process and coupling interfaces, and runtime configuration\
+  \ through a directed acyclic graph [1]. The code is parallel and makes use of open-source\
+  \ parallel frameworks such as Trilinos [2] developed at Sandia National Laboratory\
+  \ and PETSc (the Portable Extensible Toolkit for Scientific Computing) [3] developed\
+  \ at Argonne National Laboratory. Rudimentary geochemistry capabilities are included\
+  \ in Amanzi, while a state-of-the-art geochemistry support is provided through the\
+  \ Alquimia interface library, which can use well established open-source geochemistry\
+  \ engines (e.g., PFLOTRAN or CrunchFlow). In addition, support for GPUs is being\
+  \ developed through the Kokkos [4] performance portability library. Amanzi is used\
+  \ to model contaminant migration at various DOE waste sites (e.g., Hanford, and\
+  \ Savannah River), and is generally applicable to contaminant migration in groundwater\
+  \ under partially saturated nonisothermal conditions and its interaction with surface\
+  \ water. Development of Amanzi is funded by the DOE Office of Science, primarily\
+  \ through programs in the DOE Office of Biological and Environmental Research (BER)\
+  \ and internally through LDRD. [1] Coon, E. T., J. D. Moulton, and S. L. Painter,\
+  \ Managing complexity in simulations of land surface and near-surface processes,\
+  \ Environmental Modelling &amp; Software, 78, pp. 134-149, 2016. http://dx.doi.org/10.1016/j.envsoft.2015.12.017\
+  \ [2] Trilinos, https://trilinos.github.io/ [3] Portable, Extensible Toolkit for\
+  \ Scientific Computation, https://www.mcs.anl.gov/petsc/ [4] Kokkos C++ Performance\
+  \ Portability Programming EcoSystem, https://github.com/kokkos"
+programming_languages: []
+country_of_origin: "United States"
+project_keywords: []
+licenses:
+- "BSD 3-clause \"New\" or \"Revised\" License"
+site_accession_number: "C20088"
+date_record_added: "2021-08-12"
+date_record_updated: "2021-08-12"
+links:
+- rel: "citation"
+  href: "https://www.osti.gov/doecode/biblio/62080"

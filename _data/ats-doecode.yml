@@ -1,0 +1,174 @@
+---
+code_id: 28622
+site_ownership_code: "ORNL"
+open_source: true
+repository_link: "https://github.com/amanzi/ats"
+accessibility: "OS"
+software_type: "S"
+developers:
+- email: ""
+  orcid: ""
+  first_name: "Ethan"
+  last_name: "Coon"
+  middle_name: ""
+  affiliations:
+  - "Oak Ridge National Lab. (ORNL), Oak Ridge, TN (United States)"
+- email: ""
+  orcid: ""
+  first_name: "Daniil"
+  last_name: "Svyatsky"
+  middle_name: ""
+  affiliations:
+  - "Los Alamos National Lab. (LANL), Los Alamos, NM (United States)"
+- email: ""
+  orcid: ""
+  first_name: "Ahmad"
+  last_name: "Jan"
+  middle_name: ""
+  affiliations:
+  - "Oak Ridge National Lab. (ORNL), Oak Ridge, TN (United States)"
+- email: ""
+  orcid: ""
+  first_name: "Eugene"
+  last_name: "Kikinzon"
+  middle_name: ""
+  affiliations:
+  - "Los Alamos National Lab. (LANL), Los Alamos, NM (United States)"
+- email: ""
+  orcid: ""
+  first_name: "Markus"
+  last_name: "Berndt"
+  middle_name: ""
+  affiliations:
+  - "Los Alamos National Lab. (LANL), Los Alamos, NM (United States)"
+- email: ""
+  orcid: ""
+  first_name: "Adam"
+  last_name: "Atchley"
+  middle_name: ""
+  affiliations:
+  - "Los Alamos National Lab. (LANL), Los Alamos, NM (United States)"
+- email: ""
+  orcid: ""
+  first_name: "Dylan"
+  last_name: "Harp"
+  middle_name: ""
+  affiliations:
+  - "Los Alamos National Lab. (LANL), Los Alamos, NM (United States)"
+- email: ""
+  orcid: ""
+  first_name: "Gianmarco"
+  last_name: "Manzini"
+  middle_name: ""
+  affiliations:
+  - "Los Alamos National Lab. (LANL), Los Alamos, NM (United States)"
+- email: ""
+  orcid: ""
+  first_name: "Eitan"
+  last_name: "Shelef"
+  middle_name: ""
+  affiliations:
+  - "Univ. of Pittsburgh, PA (United States)"
+- email: ""
+  orcid: ""
+  first_name: "Konstantin"
+  last_name: "Lipnikov"
+  middle_name: ""
+  affiliations:
+  - "Los Alamos National Lab. (LANL), Los Alamos, NM (United States)"
+- email: ""
+  orcid: ""
+  first_name: "Rao"
+  last_name: "Garimella"
+  middle_name: ""
+  affiliations:
+  - "Los Alamos National Lab. (LANL), Los Alamos, NM (United States)"
+- email: ""
+  orcid: ""
+  first_name: "Chonggang"
+  last_name: "Xu"
+  middle_name: ""
+  affiliations:
+  - "Los Alamos National Lab. (LANL), Los Alamos, NM (United States)"
+- email: ""
+  orcid: ""
+  first_name: "David"
+  last_name: "Moulton"
+  middle_name: ""
+  affiliations:
+  - "Los Alamos National Lab. (LANL), Los Alamos, NM (United States)"
+- email: ""
+  orcid: ""
+  first_name: "Satish"
+  last_name: "Karra"
+  middle_name: ""
+  affiliations:
+  - "Los Alamos National Lab. (LANL), Los Alamos, NM (United States)"
+- email: ""
+  orcid: ""
+  first_name: "Scott"
+  last_name: "Painter"
+  middle_name: ""
+  affiliations:
+  - "Oak Ridge National Lab. (ORNL), Oak Ridge, TN (United States)"
+- email: ""
+  orcid: ""
+  first_name: "Elchin"
+  last_name: "Jafarov"
+  middle_name: ""
+  affiliations:
+  - "Los Alamos National Lab. (LANL), Los Alamos, NM (United States)"
+- email: ""
+  orcid: ""
+  first_name: "Sergi"
+  last_name: "Molins"
+  middle_name: ""
+  affiliations:
+  - "Lawrence Berkeley National Lab. (LBNL), Berkeley, CA (United States)"
+contributors: []
+sponsoring_organizations:
+- organization_name: "USDOE Office of Science (SC), Biological and Environmental Research\
+    \ (BER) (SC-23)"
+  funding_identifiers: []
+  primary_award: "AC05-00OR22725"
+  DOE: true
+contributing_organizations: []
+research_organizations:
+- organization_name: "Lawrence Berkeley National Laboratory (LBNL), Berkeley, CA (United\
+    \ States)"
+  DOE: true
+- organization_name: "Oak Ridge National Laboratory (ORNL), Oak Ridge, TN (United\
+    \ States)"
+  DOE: true
+- organization_name: "Los Alamos National Laboratory (LANL), Los Alamos, NM (United\
+    \ States)"
+  DOE: true
+related_identifiers: []
+release_date: "2019-09-10"
+software_title: "Advanced Terrestrial Simulator"
+doi: "https://doi.org/10.11578/dc.20190911.1"
+description: "The Advanced Terrestrial Simulator (formerly sometimes known as the\
+  \ Arctic Terrestrial Simulator) is a code for solving ecosystem-based, integrated,\
+  \ distributed hydrology.  Capabilities are largely based on solving various forms\
+  \ of Richards equation coupled to a surface flow equation, along with the needed\
+  \ sources and sinks for ecosystem and climate models. This can (but need not) include\
+  \ thermal processes (especially ice for frozen soils), evapo-transpiration, albedo-driven\
+  \ surface energy balances, snow, biogeochemistry, plant dynamics, deformation, transport,\
+  \ and much more.\n\nPreferred citation (including correct author order):\nEthan\
+  \ Coon, Markus Berndt, Ahmad Jan, Daniil Svyatsky, Adam Atchley, Eugene Kikinzon,\
+  \ Dylan Harp, Gianmarco Manzini, Eitan Shelef, Konstantin Lipnikov, Rao Garimella,\
+  \ Chonggang Xu, David Moulton, Satish Karra, Scott Painter, Elchin Jafarov, and\
+  \ Sergi Molins. 2019. Advanced Terrestrial Simulator. Next Generation Ecosystem\
+  \ Experiments Arctic Data Collection, Oak Ridge National Laboratory, U.S. Department\
+  \ of Energy, Oak Ridge, Tennessee, USA. Version [xxx]. DOI link: https://doi.org/10.11578/dc.20190911.1"
+programming_languages: []
+version_number: ""
+country_of_origin: "United States"
+project_keywords: []
+licenses:
+- "BSD 3-clause \"New\" or \"Revised\" License"
+date_record_added: "2019-07-31"
+date_record_updated: "2019-09-19"
+links:
+- rel: "citation"
+  href: "https://www.osti.gov/doecode/biblio/28622"
