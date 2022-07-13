@@ -7,5 +7,19 @@ hero_image: /../img/black.jpg
 hero_height: is_fullheight
 ---
 
-#### PFLOTRAN [<i class="fas fa-book"></i>](https://www.pflotran.org/) [<i class="fab fa-bitbucket"></i>](https://bitbucket.org/pflotran/pflotran/wiki/Home)
-An open-source, state-of-the-art massively parallel subsurface flow and reactive transport code. PFLOTRAN solves a system of generally nonlinear partial differential equations describing multiphase, multicomponent, and multiscale reactive flow and transport in porous materials. The code is designed to run on massively parallel computing architectures as well as workstations and laptops. PFLOTRAN is written in object-oriented, free-formatted FORTRAN 2003. The reactive transport equations can be solved using either a fully implicit Newton-Raphson algorithm or the less robust operator-splitting method. Geochemical capabilities include aqueous complexation, sorption, mineral precipitation and dissolution, and microbially mediated reactions.
+### {{ site.data.pflotran-doecode.software_title }} [<i class="fas fa-book"></i>]({{site.data.pflotran-int.landing_page}}) [<i class="fab fa-bitbucket"></i>]({{site.data.pflotran-int.repository_url}})
+
+{{ site.data.pflotran-int.description }} 
+
+**Contact:** {{ site.data.pflotran-int.contact}} (<{{ site.data.pflotran-int.contact_email }}>), {{site.data.pflotran-int.contact_institution}} <br>
+**DOI:**  [{{ site.data.pflotran-doecode.doi }}]({{ site.data.pflotran-doecode.doi }} ) <br>
+**License:**  {{ site.data.pflotran-int.licenses }} <br>
+
+***
+
+### Links
+
+**Website:** [{{ site.data.pflotran-int.landing_page }}]({{ site.data.pflotran-int.landing_page }}) <br>
+**Documentation:** [{{ site.data.pflotran-int.documentation_url }}]({{ site.data.pflotran-int.documentation_url }}) <br>
+**Repository:** [{{ site.data.pflotran-int.repository_url }}]({{ site.data.parflow-int.repository_url }}) <br>
+

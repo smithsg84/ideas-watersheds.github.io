@@ -1,0 +1,79 @@
+---
+code_id: 54767
+site_ownership_code: "LBNL"
+open_source: true
+repository_link: "https://github.com/LBL-EESA/alquimia-dev"
+accessibility: "OS"
+software_type: "S"
+developers:
+- email: "BAndre@lbl.gov"
+  orcid: "0000-0003-2958-7725"
+  first_name: "Benjamin"
+  last_name: "Andre"
+  middle_name: ""
+  affiliations:
+  - "Lawrence Berkeley National Lab. (LBNL), Berkeley, CA (United States)"
+- email: "SMolins@lbl.gov"
+  orcid: "0000-0001-7675-3218"
+  first_name: "Sergi"
+  last_name: "Molins"
+  middle_name: ""
+  affiliations:
+  - "Lawrence Berkeley National Lab. (LBNL), Berkeley, CA (United States)"
+- email: "JNJohnson@lbl.gov"
+  orcid: "0000-0002-0265-5241"
+  first_name: "Jeffrey"
+  last_name: "Johnson"
+  middle_name: ""
+  affiliations:
+  - "Lawrence Berkeley National Lab. (LBNL), Berkeley, CA (United States)"
+- email: "CISteefel@lbl.gov"
+  orcid: "0000-0002-2802-611X"
+  first_name: "Carl"
+  last_name: "Steefel"
+  middle_name: ""
+  affiliations:
+  - "Lawrence Berkeley National Lab. (LBNL), Berkeley, CA (United States)"
+contributors: []
+sponsoring_organizations:
+- organization_name: "USDOE"
+  funding_identifiers: []
+  primary_award: "AC02-05CH11231"
+  DOE: true
+contributing_organizations: []
+research_organizations:
+- organization_name: "Lawrence Berkeley National Laboratory (LBNL), Berkeley, CA (United\
+    \ States)"
+  DOE: true
+related_identifiers: []
+release_date: "2013-08-01"
+software_title: "Alquimia"
+acronym: "ALQUIMIA"
+doi: "https://doi.org/10.11578/dc.20210416.49"
+description: "Alquimia provides a generic interface between flow and transport simulators\
+  \ (drivers) and biogeochemical reaction capabilities (engines). Alquimia consists\
+  \ of two parts: an application programming interface, API, and a wrapper library.\
+  \ The API describes in detail how information is exchanged between the driver and\
+  \ the engine. This includes the function call signatures and data structures required\
+  \ for implementing alquimia in a mixed language (C/C++/Fortran) programming environment.\
+  \ The library is an implementation of the documented API, providing an interface\
+  \ into the biogeochemistry routines supplied by other codes: Alquimia does not do\
+  \ any geochemical calculations. Version 1.0 provides interfaces to the open source\
+  \ codes (BSD) CrunchFlow/CrunchTope and (LGPL) PFLOTRAN. Version 1.0 meets the policies\
+  \ set forth by (and is part of) the Extreme-scale Scientific Software Development\
+  \ Kit, xSDK version 0.6.0."
+programming_languages:
+- "C++"
+- "Fortran"
+country_of_origin: "United States"
+project_keywords: []
+licenses:
+- "Other"
+proprietary_url: "https://github.com/LBL-EESA/alquimia-dev/blob/master/LICENSE.txt"
+recipient_org: "Lawrence Berkeley National Laboratory"
+site_accession_number: "5141; 2013-119; 2021-149"
+date_record_added: "2021-04-16"
+date_record_updated: "2021-09-08"
+links:
+- rel: "citation"
+  href: "https://www.osti.gov/doecode/biblio/54767"

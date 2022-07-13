@@ -1,0 +1,85 @@
+---
+code_id: 47160
+site_ownership_code: "SNL"
+open_source: true
+landing_page: "https://ip.sandia.gov/contact.do"
+accessibility: "ON"
+software_type: "S"
+developers:
+- email: ""
+  orcid: ""
+  first_name: "Glenn"
+  last_name: "Hammond"
+  middle_name: ""
+  affiliations:
+  - "Sandia National Lab. (SNL-NM), Albuquerque, NM (United States)"
+- email: ""
+  orcid: ""
+  first_name: "Michael"
+  last_name: "Noel"
+  middle_name: ""
+  affiliations:
+  - "Sandia National Lab. (SNL-NM), Albuquerque, NM (United States)"
+- email: ""
+  orcid: ""
+  first_name: "Rosemary"
+  last_name: "Leone"
+  middle_name: ""
+  affiliations:
+  - "Sandia National Lab. (SNL-NM), Albuquerque, NM (United States)"
+- email: ""
+  orcid: ""
+  first_name: "Heeho"
+  last_name: "Park"
+  middle_name: ""
+  affiliations:
+  - "Sandia National Lab. (SNL-NM), Albuquerque, NM (United States)"
+- email: ""
+  orcid: ""
+  first_name: "Jennifer"
+  last_name: "Frederick"
+  middle_name: ""
+  affiliations:
+  - "Sandia National Lab. (SNL-NM), Albuquerque, NM (United States)"
+contributors: []
+sponsoring_organizations:
+- organization_name: "USDOE"
+  funding_identifiers: []
+  primary_award: "NA0003525"
+  DOE: true
+contributing_organizations: []
+research_organizations:
+- organization_name: "Sandia National Laboratories (SNL-NM), Albuquerque, NM (United\
+    \ States)"
+  DOE: true
+related_identifiers: []
+release_date: "2020-06-17"
+software_title: "PFLOTRAN"
+doi: "https://doi.org/10.11578/dc.20201103.3"
+description: "PFLOTRAN is a GNU LGPL licensed code that simulates single phase water\
+  \ and multiphase (air, co2, water) flow, energy transport, geochemical reaction\
+  \ and biological reaction in the earth's subsurface environment. The problem may\
+  \ be discretized on structured and unstructured grids. The code is designed to run\
+  \ in parallel on supercomputers and leverages the open source PETSc library for\
+  \ solvers and data structures and open source HDF5 for binary file I/O. See www.pflotran.org\
+  \ and/or doc-dev.pflotran.org for further information. SAND2020-12161 M\n\nSandia\
+  \ National Laboratories is a multimission laboratory managed and operated by National\
+  \ Technology & Engineering Solutions of Sandia, LLC, a wholly owned subsidiary of\
+  \ Honeywell International Inc., for the U.S. Department of Energy’s National Nuclear\
+  \ Security Administration under contract DE-NA0003525."
+programming_languages:
+- "Fortran"
+- "Python"
+version_number: "3.0"
+country_of_origin: "United States"
+project_keywords: []
+licenses:
+- "GNU General Public License v3.0"
+recipient_org: "Sandia National Laboratories"
+site_accession_number: "SCR#2513"
+file_name: "pflotran-pflotran-c88faab82a28.zip"
+date_record_added: "2020-11-01"
+date_record_updated: "2020-11-03"
+links:
+- rel: "citation"
+  href: "https://www.osti.gov/doecode/biblio/47160"
