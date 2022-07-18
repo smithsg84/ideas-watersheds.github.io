@@ -8,6 +8,8 @@ landing_page: "https://parflow.org"
 repository_url: "https://github.com/parflow/parflow"
 documentation_url: "https://parflow.org/#documentation"
 
+docker_url: "https://hub.docker.com/r/parflow/parflow"
+
 description: "ParFlow is an open-source, modular, parallel watershed flow model. It
   includes fully-integrated overland flow, the ability to simulate complex topography,
   geology and heterogeneity and coupled land-surface processes including the land-energy
