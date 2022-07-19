@@ -7,5 +7,20 @@ hero_image: /../img/black.jpg
 hero_height: is_fullheight
 ---
 
-#### CrunchFlow [<i class="fab fa-bitbucket"></i>](https://bitbucket.org/crunchflow/crunchtope-dev/wiki/Home)
-An open-source software package for simulating reactive flow and transport applied to a variety of problems in the Earth and environmental sciences that can include an arbitrary number of reactions, including mineral dissolution/precipitation, ion exchange, surface complexation, and microbially mediated reactions (Steefel et al, 2015). Two approaches are available at runtime for coupling reactions and transport: (1) a global-implicit approach that solves transport and reactions simultaneously, and (2) an operator-splitting approach based on a sequential non-iterative solve.
+### {{ site.data.crunchflow-int.software_title }} [<i class="fas fa-book"></i>]({{site.data.crunchflow-int.landing_page}}) [<i class="fab fa-github"></i>]({{site.data.crunchflow-int.repository_url}})
+
+{{ site.data.crunchflow-int.description }} 
+
+**Contact:** {{ site.data.crunchflow-int.contact}} (<{{ site.data.crunchflow-int.contact_email }}>), {{site.data.crunchflow-int.contact_institution}} <br>
+**Licenses:**  {{ site.data.crunchflow-int.licenses }} <br>
+
+***
+
+### Links
+
+**Website:** [{{ site.data.crunchflow-int.landing_page }}]({{ site.data.crunchflow-int.landing_page }}) <br>
+**Repository:** [{{site.data.crunchflow-int.repository_url}}]( {{site.data.crunchflow-int.repository_url}} ) <br>
+
+***
+
+### Role in IDEAS-Watersheds Software Ecosystem

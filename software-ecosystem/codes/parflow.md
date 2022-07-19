@@ -22,7 +22,9 @@ hero_height: is_fullheight
 **Website:** [{{ site.data.parflow-int.landing_page }}]({{ site.data.parflow-int.landing_page }}) <br>
 **Documentation:** [{{ site.data.parflow-int.documentation_url }}]({{ site.data.parflow-int.documentation_url }}) <br>
 **Repository:** [{{site.data.parflow-int.repository_url}}]( {{site.data.parflow-int.repository_url}} ) <br>
-**Docker Container:** [{{site.data.parflow-int.docker_url}}]( {{site.data.parflow-int.docker_url}} ) <br>
+**Docker Images:** [{{site.data.parflow-int.docker_url}}]( {{site.data.parflow-int.docker_url}} ) <br>
+
+***
 
 ### Role in IDEAS-Watersheds Software Ecosystem
 

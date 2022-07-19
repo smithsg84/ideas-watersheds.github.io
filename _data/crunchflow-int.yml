@@ -1,0 +1,31 @@
+hero_image:
+
+software_title: CrunchFlow 
+
+contact: "Sergi Molins"
+contact_institution: "LBNL"
+contact_email: "smolins@lbnl.gov"
+
+landing_page: "https://bitbucket.org/crunchflow/crunchtope-dev"
+repository_url: "https://bitbucket.org/crunchflow/crunchtope-dev/src"
+
+licenses:
+- BSD 3-clause
+
+description: "An open-source software package for simulating reactive
+  flow and transport applied to a variety of problems in the Earth and
+  environmental sciences that can include an arbitrary number of
+  reactions, including mineral dissolution/precipitation, ion
+  exchange, surface complexation, and microbially mediated reactions
+  (Steefel et al, 2015).  The code is based on a finite volume
+  discretization of the governing coupled partial differential
+  equations that link flow, solute transport, and multi-component
+  equilibrium and kinetic reactions in porous and/or fluid media.  Two
+  approaches are available at runtime for coupling reactions and
+  transport: (1) a global-implicit approach that solves transport and
+  reactions simultaneously, and (2) an operator-splitting approach
+  based on a sequential non-iterative solve. CrunchFlow/CrunchTope is
+  the recipient of an R&D 100 Award for Cutting-Edge Technologies in
+  2017."
+
+ideas_role: 
