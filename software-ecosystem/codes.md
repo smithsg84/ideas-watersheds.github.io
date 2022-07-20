@@ -35,7 +35,7 @@ hero_height: is_fullheight
         </center></div>
 
         <div><center>
-        <h3><a href="/software-ecosystem/codes/ats">Amanzi-ATS  </a></h3>
+        <h3><a href="/software-ecosystem/codes/ats"> ATS  </a></h3>
         <img src="../../img/code_ats.png" align="center"><br>
         Advanced Terrestrial Simulator (ATS) - for solving ecosystem-based, integrated, distributed hydrology.
         </center></div>
