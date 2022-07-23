@@ -36,13 +36,10 @@
 - name: Publications
   link: /publications/
 - name: Community Resources
-  link: /community/
   dropdown:
-    - name: Seminars
+    - name: Seminars (Internal)
       link: /community/seminar
     - name: HPC Best Practices
       link: https://ideas-productivity.org/events/hpc-best-practices-webinars/
     - name: Events 
       link: /community/events
-    - name: Job Postings
-      link: /community/job-posting
