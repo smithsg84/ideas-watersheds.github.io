@@ -32,7 +32,7 @@
 <meta name="twitter:card" content="summary" />
 <meta property="twitter:title" content="Alquimia" />
 <script type="application/ld+json">
-{"@type":"WebPage","headline":"Alquimia","description":"Accelerating watershed science through a community-driven software ecosystem","url":"http://localhost:4000/software-ecosystem/codes/alquimia/","@context":"https://schema.org"}</script>
+{"url":"http://localhost:4000/software-ecosystem/codes/alquimia/","@type":"WebPage","description":"Accelerating watershed science through a community-driven software ecosystem","headline":"Alquimia","@context":"https://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 <!-- head scripts --></head>
 
@@ -113,16 +113,14 @@
                 
                     
                     <div class="navbar-item has-dropdown is-hoverable ">
-                        <a href="/community/" class="navbar-link ">Community Resources</a>
+                        <a href="" class="navbar-link ">Community Resources</a>
                         <div class="navbar-dropdown">
                             
-                            <a href="/community/seminar" class="navbar-item ">Seminars</a>
+                            <a href="/community/seminar" class="navbar-item ">Seminars (Internal)</a>
                             
                             <a href="https://ideas-productivity.org/events/hpc-best-practices-webinars/" class="navbar-item ">HPC Best Practices</a>
                             
                             <a href="/community/events" class="navbar-item ">Events</a>
-                            
-                            <a href="/community/job-posting" class="navbar-item ">Job Postings</a>
                             
                         </div>
                     </div>
@@ -179,7 +177,7 @@
         </li>
         
         <li>
-            <a href="/software-ecosystem/codes/ats" class="">Amanzi-ATS</a>
+            <a href="/software-ecosystem/codes/ats" class="">ATS</a>
             
         </li>
         
@@ -235,8 +233,25 @@
                     
                     
 <div class="content">
-    <h4 id="alquimia-">Alquimia <a href="https://github.com/LBL-EESA/alquimia-dev/"><i class="fab fa-github"></i></a></h4>
-<p>A biogeochemistry Application Program Interface and wrapper library that provides unified access to biogeochemistry capabilities from mature geochemical codes, allowing any subsurface flow and transport simulator to access a range of functionality. Alquimia is not an implementation of a biogeochemistry reaction library and does not do any geochemical calculations. Currently, Alquimia provides access to the geochemical codes PFLOTRAN and CrunchFlow and can be used for the simulation of aqueous complexation reactions, radioactive decay, ion exchange, surface complexation, and mineral dissolution-precipitation. Github repo admin: Sergi Molins</p>
+    <h3 id="alquimia-">Alquimia <a href="https://github.com/LBL-EESA/alquimia-dev"><i class="fab fa-github"></i></a></h3>
+
+<p>Alquimia provides a generic interface between flow and transport simulators (drivers) and biogeochemical reaction capabilities (engines). Alquimia consists of two parts: an application programming interface, API, and a wrapper library. The API describes in detail how information is exchanged between the driver and the engine. This includes the function call signatures and data structures required for implementing alquimia in a mixed language (C/C++/Fortran) programming environment. The library is an implementation of the documented API, providing an interface into the biogeochemistry routines supplied by other codes: Alquimia does not do any geochemical calculations. Version 1.0 provides interfaces to the open source codes (BSD) CrunchFlow/CrunchTope and (LGPL) PFLOTRAN. Version 1.0 meets the policies set forth by (and is part of) the Extreme-scale Scientific Software Development Kit, xSDK version 0.6.0.</p>
+
+<p><strong>Contact:</strong> Sergi Molins (<a href="mailto:smolins@lbnl.gov">smolins@lbnl.gov</a>), LBNL <br />
+<strong>DOI:</strong>  <a href="">https://doi.org/10.11578/dc.20210416.49</a> <br />
+<strong>Licenses:</strong>  BSD 3-clause <br /></p>
+
+<hr />
+
+<h3 id="links">Links</h3>
+
+<p><strong>Repository:</strong> <a href="https://github.com/LBL-EESA/alquimia-dev">https://github.com/LBL-EESA/alquimia-dev</a> <br /></p>
+
+<hr />
+
+<h3 id="role-in-ideas-watersheds-software-ecosystem">Role in IDEAS-Watersheds Software Ecosystem</h3>
+
+<p>Alquimia is a interface library for geochemistry engines.  Within the IDEAS-Watersheds software ecosystem integrated hydrology codes (ATS, ParFlow) and subsurface flow and reactive transport codes (Amanzi) use Alquimia to access the PFLOTRAN and Crunchflow geochemistry engines.</p>
 
 </div>
                 </div>

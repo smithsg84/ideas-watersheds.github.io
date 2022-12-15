@@ -26,7 +26,6 @@ hero_height: is_fullheight
 | Jun 10    | Steve Smith, LLNL                      | Discussion: Software Ecosystem inclusion, deployment, and effective use. |
 | Jun 24    | Steve Smith, LLNL (with Ethan Coon, Glenn Hammond, and David Moulton) | Demos/Discussion:  Command line tools - your secret to productivity on HPC systems |
 | Jul 8     | Steve Smith, LLNL  | Discussion: ParFlow in DOE Code, DOIs, and discussion of best practices for ESS |
-| Jul 22    | Cancelled | |
 | Aug 5 | Steve Smith, LLNL; David Moulton, LANL | Updates on the IDEAS-Watersheds Software Ecosystem | 
 |       | Break for ESS PI Meeting | |
 | Sep 30 | Steve Smith, LLNL | Spack for developers | 

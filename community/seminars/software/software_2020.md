@@ -17,12 +17,12 @@ hero_height: is_fullheight
 | Jan 15    | Steve Smith                            | Debugging Best Practices |
 | Feb 19    | IDEAS-ECP: HPC Best Practices Webinar  | Introduction to Kokkos |
 | Apr 1     | Steve Smith and team                   | Group discussion on seminar series and future topics |
-| June 26   | Steve Smith                            | Debugger Tutorial (DDT, and MAP profiler)  |
-| July 10   | Pin Shuai, Jiang Peishi                | Jupyter Notebooks Introduction - Setting up a basic workflow |
-|July 24    | Pin Shuai, Jiang Peishi                | Jupyter Notebooks - JupyterLab Demo on NERSC, git for notebook tracking, and discussions on workflows |
+| Jun 26   | Steve Smith                            | Debugger Tutorial (DDT, and MAP profiler)  |
+| Jul 10   | Pin Shuai, Jiang Peishi                | Jupyter Notebooks Introduction - Setting up a basic workflow |
+| Jul 24    | Pin Shuai, Jiang Peishi                | Jupyter Notebooks - JupyterLab Demo on NERSC, git for notebook tracking, and discussions on workflows |
 | Aug 7     | Steve Smith                            | Introduction to CMake |
 | Aug 21    | Steve Smith                            | CMake - part II |
-| Sept 18   | Steve Smith                            | Introduction to Continuous Integration Testing |
+| Sep 18   | Steve Smith                            | Introduction to Continuous Integration Testing |
 | Oct 30    | Steve Smith                            | Introduction to Travis CI and GitHub CI Testing |
 | Nov 13    | David Moulton (LANL), Ryan Cabell (UCAR) | CI Part II - Use Cases:  CI setup with containers, overcoming runtime limits for longer running test suites |
 
