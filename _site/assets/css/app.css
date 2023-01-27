@@ -2835,6 +2835,8 @@ div.highlight { margin-bottom: 1rem; }
 
 .callout-icon { width: 4rem; height: 4rem; margin-bottom: 0.75rem; }
 
+[x-cloak] { display: none !important; }
+
 .highlight table td { padding: 5px; }
 
 .highlight table pre { margin: 0; }

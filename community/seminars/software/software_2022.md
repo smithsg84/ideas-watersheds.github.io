@@ -15,4 +15,6 @@ hero_height: is_fullheight
 | Date      |   Presenter                            | Title and Topic Description                    |
 |:----------|:---------------------------------------|:-----------------------------------------------|
 | Jun 20    | Steve Smith, LLNL; Giacomo Capodaglio, LANL  | Updates on Spack for ATS and ParFlow/Ecoslim – open discussion on next steps |
-| July 18   | Amy Defnet, Calla Chennault, and Reed Maxwell, Princeton | ParFlow Documentation: Moving from LaTeX to a Wiki format and into the modern era | 
+| Jul 18   | Amy Defnet, Calla Chennault, and Reed Maxwell, Princeton | ParFlow Documentation: Moving from LaTeX to a Wiki format and into the modern era |
+| Aug 29   | Steve Smith, LLNL | Community Policies for codes and tools in the IDEAS-Watersheds Software Ecosystem |
+| Sep 26   | Steve Smith, LLNL | HPC job scheduling basics with SLURM on NERSC: user experiences and lessons learned |
