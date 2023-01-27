@@ -18,5 +18,5 @@ hero_height: is_fullheight
 | Jun 27     | Qina Yan, LBNL                        | Impacts of soil erosion on soil organic matter redistribution in opposite-facing hillslopes in a mountainous area |
 | Aug 8      | Zhi Li, PNNL                        | ATS-PFLOTRAN simulations at Wenas Creek Watershed to study wildfire effects |
 | Sep 19     | Bing Li, PNNL                        | Investigating the integrated effects of intermittent inundation and rainfall on carbon status and fluxes at the coastal terrestrial-aquatic interface |
-| Oct 3      | Kate Maher, Stanford; Jenny Druhan, UIUC; Alexis Navarre-Stichler (CSM); Sergi Molins, LBNL  | CrunchFlow user experiences and community development: Panel discussion |
+| Oct 3      | Kate Maher, Stanford; Jenny Druhan, UIUC; Alexis Navarre-Stichler, CSM; Sergi Molins, LBNL  | CrunchFlow user experiences and community development: Panel discussion |
 
