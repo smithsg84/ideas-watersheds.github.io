@@ -1,0 +1,17 @@
+
+- name:  About
+  link: /about/
+- name: Research Activities
+  link: /research/
+- name: Software Ecosystem
+  link: /software-ecosystem/
+- name: Publications
+  link: /publications/
+- name: Community Resources
+  dropdown:
+    - name: Seminars (Internal)
+      link: /community/seminar
+    - name: HPC Best Practices
+      link: https://ideas-productivity.org/events/hpc-best-practices-webinars/
+    - name: Events 
+      link: /community/events

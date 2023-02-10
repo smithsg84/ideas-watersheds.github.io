@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page_software
 title: Advanced Terrestrial Simulator
 show_sidebar: false
 menubar: softwares

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page_software
 title: TINerator
 show_sidebar: false
 menubar: softwares

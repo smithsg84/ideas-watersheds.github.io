@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page_research
 title: Shared Infrastructure Activity 
 hero_image: /../img/hero_research.jpg
 hero_height: is_fullheight

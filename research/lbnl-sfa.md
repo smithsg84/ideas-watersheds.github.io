@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page_research
 title: Watershed Function SFA 
 subtitle: East River User Case (LBNL)
 hero_image: /../img/hero_research.jpg

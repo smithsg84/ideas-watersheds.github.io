@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page_research
 title: Research Activities
 permalink: /research/
 hero_image: /img/hero_research.jpg

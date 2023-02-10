@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page_about
 title: Project Team
 permalink: /about/team
 hero_image: /img/hero_logo.jpg
