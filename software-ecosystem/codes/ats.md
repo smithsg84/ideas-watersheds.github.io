@@ -1,6 +1,7 @@
 ---
 layout: page_software
 title: Advanced Terrestrial Simulator
+permalink: /software-ecosystem/codes/ats
 show_sidebar: false
 menubar: softwares
 hero_image: /../img/black.jpg

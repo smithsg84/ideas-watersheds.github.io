@@ -1,6 +1,7 @@
 ---
 layout: page_software
 title: Amanzi
+permalink: /software-ecosystem/codes/amanzi
 show_sidebar: false
 menubar: softwares
 hero_image: /../img/black.jpg

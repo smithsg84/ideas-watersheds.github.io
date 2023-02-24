@@ -1,6 +1,7 @@
 ---
 layout: page_research
-title: Critical Interfaces SFA  
+title: Critical Interfaces SFA
+permalink: /research/ornl-sfa
 subtitle: East Fork Poplar Creek Use Case (ORNL)
 hero_image: /../img/hero_research.jpg
 hero_height: is_fullheight

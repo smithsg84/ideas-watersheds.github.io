@@ -1,6 +1,7 @@
 ---
 layout: page_software
 title: PFLOTRAN
+permalink: /software-ecosystem/codes/pflotran
 show_sidebar: false
 menubar: softwares
 hero_image: /../img/black.jpg

@@ -1,6 +1,7 @@
 ---
 layout: page_software
 title: IDEAS Watersheds Workflow Tools
+permalink: /software-ecosystem/workflowtools/
 hero_image: /../img/black.jpg
 hero_height: is_fullheight
 

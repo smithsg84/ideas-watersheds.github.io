@@ -6,18 +6,18 @@
   link: /software-ecosystem/
   dropdown:
     - name: IDEAS Watersheds Codes
-      link: /software-ecosystem/codes 
+      link: /software-ecosystem/codes/
     - name: IDEAS Watersheds Workflow Tools
-      link: /software-ecosystem/workflowtools
+      link: /software-ecosystem/workflowtools/
     - name: Community Policy
-      link: /software-ecosystem/policies   
+      link: /software-ecosystem/policies
 - name: Publications
-  link: /publications/
+  link: /publications
 - name: Community Resources
   dropdown:
     - name: Seminars (Internal)
-      link: /community/seminar
+      link: /community/seminars/
     - name: HPC Best Practices
       link: https://ideas-productivity.org/events/hpc-best-practices-webinars/
-    - name: Events 
+    - name: Events
       link: /community/events

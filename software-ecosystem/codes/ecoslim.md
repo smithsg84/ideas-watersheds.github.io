@@ -1,6 +1,7 @@
 ---
 layout: page_software
 title: EcoSLIM
+permalink: /software-ecosystem/codes/ecoslim
 show_sidebar: false
 menubar: softwares
 hero_image: /../img/black.jpg

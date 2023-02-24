@@ -1,6 +1,7 @@
 ---
 layout: page_software
 title: ParFlow
+permalink: /software-ecosystem/codes/parflow
 show_sidebar: false
 menubar: softwares
 hero_image: /../img/black.jpg

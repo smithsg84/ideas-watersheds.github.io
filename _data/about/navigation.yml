@@ -15,12 +15,12 @@
 - name: Software Ecosystem
   link: /software-ecosystem/
 - name: Publications
-  link: /publications/
+  link: /publications
 - name: Community Resources
   dropdown:
     - name: Seminars (Internal)
-      link: /community/seminar
+      link: /community/seminars/
     - name: HPC Best Practices
       link: https://ideas-productivity.org/events/hpc-best-practices-webinars/
-    - name: Events 
+    - name: Events
       link: /community/events

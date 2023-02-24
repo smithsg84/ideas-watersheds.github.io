@@ -1,6 +1,7 @@
 ---
 layout: page_software
 title: WatershedWorkflow
+permalink: /software-ecosystem/codes/watershedworkflow
 show_sidebar: false
 menubar: softwares
 hero_image: /../img/black.jpg

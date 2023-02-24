@@ -1,6 +1,7 @@
 ---
 layout: page_software
 title: Alquimia
+permalink: /software-ecosystem/codes/alquimia
 show_sidebar: false
 menubar: softwares
 hero_image: /../img/black.jpg

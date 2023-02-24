@@ -1,6 +1,7 @@
 ---
 layout: page_software
 title: PriorityFlow
+permalink: /software-ecosystem/codes/priorityflow
 show_sidebar: false
 menubar: softwares
 hero_image: /../img/black.jpg

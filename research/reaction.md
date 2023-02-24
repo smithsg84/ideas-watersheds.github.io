@@ -1,6 +1,7 @@
 ---
 layout: page_research
 title: Reaction Network Activity 
+permalink: /research/reaction
 hero_image: /../img/hero_research.jpg
 hero_height: is_fullheight
 

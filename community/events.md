@@ -1,6 +1,7 @@
 ---
-layout: page
-title: Events 
+layout: page_community
+title: Events
+permalink: /community/events
 hero_image: /img/black.jpg
 hero_height: is_fullheight
 
