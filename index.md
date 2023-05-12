@@ -13,7 +13,7 @@ callouts: home_callouts
 
 The water resources that are critically important for energy production, human use, agriculture, and ecosystem health are under increasing pressure from growing demand, land-use change, and Earth system change. Those stresses on our water supply are largely transmitted through the Nation’s watersheds.
 
-The [Environmental System Science][ESS] (ESS) program within the U.S. Department of Energy is advancing a robust, predictive understanding of how watersheds function and respond to perturbations as integrated hydrobiogeochemical systems. By tightly integrating observations, experiments, and modeling, SBR advances systems-level understanding of how watersheds function and translates that understanding into advanced science-based models of watershed systems.
+The [Environmental System Science][ESS] (ESS) program within the U.S. Department of Energy is advancing a robust, predictive understanding of how watersheds function and respond to perturbations as integrated hydrobiogeochemical systems. By tightly integrating observations, experiments, and modeling, ESS advances systems-level understanding of how watersheds function and translates that understanding into advanced science-based models of watershed systems.
 
 [ESS]: https://ess.science.energy.gov/
 

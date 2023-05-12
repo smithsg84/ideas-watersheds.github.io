@@ -7,7 +7,7 @@ hero_height: is_fullheight
 
 ---
 
-The **Interoperable Design of Extreme-scale Application Software** ([IDEAS][IDEAS]) project was initiated in 2014 to help SBR and other scientists in the Office of Biological and Environmental Research (BER) increase software development productivity—a key aspect of overall scientific productivity—through a new interdisciplinary and agile approach to creating sustainable, reliable, high-performance scientific software. 
+The **Interoperable Design of Extreme-scale Application Software** ([IDEAS][IDEAS]) project, initiated in 2014,  helps ESS and other scientists in the Office of Biological and Environmental Research (BER) increase software development productivity—a key aspect of overall scientific productivity—through a new interdisciplinary and agile approach to creating sustainable, reliable, high-performance scientific software. 
 
 For the first four years, [IDEAS-Classic][IDEAS-Classic] made significant progress toward improving scientific productivity in integrated hydrological/biogeochemical systems modeling.
 
