@@ -10,28 +10,35 @@ hero_height: is_fullheight
 
 | Team Member | Organization | Contributions |
 | ----------- | ------------ | --------  |
-| Ilhan Ozgen | LBNL  |[<i class="fab fa-github"></i>](https://github.com/zgxn) |
-| Zexuan Xu   | LBNL  |[<i class="fab fa-github"></i>](https://github.com/zexuanxu) |
+| Adam Atchley | LANL |  |
+| Erica Siirila-Woodburn | LBNL |  |
+| Chen Yang | Princeton |  |
+| Kate Maher  | Stanford |  |
+| Zach Perzan | Stanford |  |
+| Tristan Babey | Stanford |  |
+| Lijing Wang  | LBNL |  |
+| Brian Rogers | Stanford |  |
+| Minjie Shi  | PNNL |  |
+| Katherine Muller | PNNL |  |
+| Zhi Li    | PNNL |  |
+| Phong Le  |  ORNL |  |
+| Jesus Gomez Velez | ORNL |  |
 | Saubhagya Rathore | ORNL   |  [<i class="fab fa-github"></i>](https://github.com/saubhagya-gatech)
-| Ahmad Jan   | ORNL  | [<i class="fab fa-github"></i>](https://github.com/ajkhattak)  |
-| Peishi Jiang | PNNL |  |
-| Pin Shuai   | PNNL  |  |
-| Xuehang Song | PNNL |  |
-| Hoang Tran  | Colorado School of Mines |  |
-| Mary Michael Forrester | Colorado School of Mines   |  |
-| Jun Zhang  | University of Arizona | [<i class="fab fa-github"></i>](https://github.com/junzhang55) |
-| Jen Stayeart | University of Arizona |  | 
+| Andrew Graus | LBNL |  |
 | Dipankar Dwivedi | LBNL | [<i class="fab fa-github"></i>](https://github.com/ddwivedi08) |
-| Daniel Livingston | LANL | [<i class="fab fa-github"></i>](https://github.com/daniellivingston) |
+| Daniil Svyatsky | LANL |  |
 | Svetlana Tokareva | LANL | |
-| Angelic Arzola Roig | LANL | [<i class="fab fa-github"></i>](https://github.com/amaroig) |
+| Andrew Grauss | LBL |  |
+| Chen Yang | Princeton |  |
+| Francisco Guerrero | PNNL |  |
+| Hyun-Seob Song | University of Nebraska-Lincoln |  |
+| Zexuan Xu   | LBNL  |[<i class="fab fa-github"></i>](https://github.com/zexuanxu) |
 | ------------------  | ----- | ----- |
 
 
 | Alumni |
 | ------------------  |
-| Kewei Chen (PNNL)    |
-| Joe Beisman (LANL)   |
+| Dave Gochis (NCAR), Kewei Chen (PNNL), Joe Beisman (LANL), Ilhan Ozgen (LBNL), Ahmad Jan (ORNL), Peishi Jiang (PNNL), Pin Shuai   (PNNL), Xuehang Song (PNNL), Hoang Tran  (Colorado School of Mines), Mary Michael (Colorado School of Mines), Jun Zhang  (University of Arizona), Jen Stayeart (University of Arizona), Daniel Livingston (LANL), Angelic Arzola Roig (LANL) |
 | ------------------  |
 
 
