@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page_software
 title: Software Ecosystem
 permalink: /software-ecosystem/
 hero_image: /img/black.jpg

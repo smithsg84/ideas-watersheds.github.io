@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page_community
 title: Job Postings
 permalink: /community/job-posting
 hero_image: /img/black.jpg

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Publications & Presentations
-permalink: /publications/
+permalink: /publications
 hero_image: /img/hero_publications.jpg
 hero_height: is_fullheight
 

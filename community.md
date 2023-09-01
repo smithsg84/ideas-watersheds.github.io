@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page_community
 title: Community Resources
 permalink: /community/
 hero_image: /img/black.jpg

@@ -1,6 +1,7 @@
 ---
-layout: page
+layout: page_software
 title: CrunchFlow
+permalink: /software-ecosystem/codes/crunchflow
 show_sidebar: false
 menubar: softwares
 hero_image: /../img/black.jpg

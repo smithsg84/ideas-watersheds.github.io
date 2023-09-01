@@ -1,6 +1,7 @@
 ---
-layout: page
-title: CONUS Activity 
+layout: page_research
+title: CONUS Activity
+permalink: /research/conus
 hero_image: /../img/hero_research.jpg
 hero_height: is_fullheight
 ---

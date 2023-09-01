@@ -1,0 +1,29 @@
+- name:  About
+  link: /about/
+- name: Research Activities
+  link: /research/
+  dropdown:
+    - name: LBNL SFA
+      link: /research/lbnl-sfa
+    - name: ORNL SFA
+      link: /research/ornl-sfa
+    - name: PNNL SFA
+      link: /research/pnnl-sfa
+    - name: CONUS
+      link: /research/conus
+    - name: Reaction Network
+      link: /research/reaction
+    - name: Shared Infrastructure
+      link: /research/infrastructure
+- name: Software Ecosystem
+  link: /software-ecosystem/
+- name: Publications
+  link: /publications
+- name: Community Resources
+  dropdown:
+    - name: Seminars (Internal)
+      link: /community/seminars/
+    - name: HPC Best Practices
+      link: https://ideas-productivity.org/events/hpc-best-practices-webinars/
+    - name: Events
+      link: /community/events

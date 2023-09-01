@@ -1,6 +1,7 @@
 ---
-layout: page
+layout: page_software
 title: TINerator
+permalink: /software-ecosystem/codes/tinerator
 show_sidebar: false
 menubar: softwares
 hero_image: /../img/black.jpg
