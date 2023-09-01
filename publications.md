@@ -9,9 +9,9 @@ hero_height: is_fullheight
 
 ## Watershed Function SFA Partnership: East River Use Case
 ### PUBLICATIONS
-- Molins S., Svyatsky, D., Xu, Z., Coon, E.T., and Moulton, J.D. A multicomponent reactive transport model for integrated surface-subsurface hydrology problems. Water Resources Research (in revision)
-- Özgen-Xian, I., Molins, S., Johnson, R.M., Loritz, R., Xu, Z., Dwivedi, D., Mital, U., Ulrich, C., and Carl I. Steefel, C.I. The role of surface–subsurface interactions in the distributed hydrological response of a headwater-dominated catchment. Hydrological Processes (in review)
-- Xu, Z., Molins, S., Özgen-Xian, I., Dwivedi, D., Svyatsky, D., Moulton, J.D., and Steefel, C.I. Understanding the hydrogeochemical response of a mountainous watershed using integrated surface-subsurface flow and reactive transport modeling. Water Resources Research (in revision)
+-  Molins, S., Svyatsky, D., Xu, Z., Coon, E. T., & Moulton, J. D. A multicomponent reactive transport model for integrated surface-subsurface hydrology problems. Water Resources Research, 58, e2022WR032074. [https://doi.org/10.1029/2022WR032074](https://doi.org/10.1029/2022WR032074), 2022
+-  Ilhan Özgen Xian, Sergi Molins, Rachel M. Johnson, et al. The role of surface--subsurface interactions in the distributed hydrological response of a headwater-dominated catchment. Authorea. [https://doi.org/10.22541/au.164606228.88932265/v1](https://www.authorea.com/users/462785/articles/558109-the-role-of-surface-subsurface-interactions-in-the-distributed-hydrological-response-of-a-headwater-dominated-catchment?commit=6dc0ccb907916ffc517b9a0f5e0dca48a61aab7b), February 28, 2022.
+-  Xu, Z., Molins, S., Özgen-Xian, I., Dwivedi, D., Svyatsky, D., Moulton, J. D., & Steefel, C. Understanding the hydrogeochemical response of a mountainous watershed using integrated surface-subsurface flow and reactive transport modeling. Water Resources Research, 58, e2022WR032075. [https://doi.org/10.1029/2022WR032075](https://doi.org/10.1029/2022WR032075), 2022
 - Dwivedi, D., Steefel, C. I., Arora, B., Banfield, J., Bargar, J., Boyanov, M. I., Painter, S. L. et al. From legacy contamination to watershed systems science: a review of scientific insights and technologies developed through DOE-supported research in water and energy security. Environmental Research Letters, 17(4), 043004. [https://doi.org/10.1088/1748-9326/ac59a9](https://doi.org/10.1088/1748-9326/ac59a9), 2022
 - Özgen-Xian, I., Navas-Montilla, A., Dwivedi, D., and Molins, S. Hyperbolic Reformulation Approach to Enable Efficient Simulation of Groundwater Flow and Reactive Transport. Environmental Engineering Science, 38(3), 181–191. [https://doi.org/10.1089/ees.2020.0363](https://doi.org/10.1089/ees.2020.0363), 2021
 - Özgen-Xian, I., Navas-Montilla, A., Dwivedi, D., and Molins, S. Hyperbolic Reformulation Approach to Enable Efficient Simulation of Groundwater Flow and Reactive Transport. Environmental Engineering Science, 38(3), 181–191. [https://doi.org/10.1089/ees.2020.0363](https://doi.org/10.1089/ees.2020.0363), 2021
@@ -19,8 +19,9 @@ hero_height: is_fullheight
 - Molins, S., and Knabner, P. Multiscale Approaches in Reactive Transport Modeling. Reviews in Mineralogy and Geochemistry, 85(1), 27–48. [https://doi.org/10.2138/rmg.2019.85.2](https://doi.org/10.2138/rmg.2019.85.2), 2019
 - Dwivedi, D., Steefel, C. I., Arora, B., Newcomer, M., Moulton, J. D., Dafflon, B., et al. Geochemical Exports to River From the Intrameander Hyporheic Zone Under Transient Hydrologic Conditions: East River Mountainous Watershed, Colorado. Water Resources Research, 54(10), 8456–8477. [https://doi.org/10.1029/2018WR023377](https://doi.org/10.1029/2018WR023377), 2018
 
-### PRESENTATIONS 
-- Molins, D. Svyatskiy, E. Coon, Z. Xu, and D. Moulton (Invited) Modeling Reactive Transport across the Surface-Subsurface Interface, SIAM Geosciences 2021.
+### PRESENTATIONS
+- Xu Z., S. Molins, D. Dwivedi, et al. Simulating nitrogen processes in a mountainous watershed using an integrated hydrology and reactive transport model, AGU Fall Meeting, H44F-02, 2022.
+- Molins S., D. Svyatskiy, E. Coon, Z. Xu, and D. Moulton (Invited) Modeling Reactive Transport across the Surface-Subsurface Interface, SIAM Geosciences 2021.
 - Özgen-Xian, I., Caviedes-Voullieme, D., Crompton, O., Morales-Hernandez, M., Dwivedi, D., Xu, Z., Molins S., Steefel, C.I. Overland flow connectivity states in Lower Triangle Region, East River, Colorado, AGU Fall Meeting, H215–0012, 2020.
 - Molins, S., Svyatskiy, D., Xu, Z., and Moulton, J. D.. A reactive transport model for integrated surface-subsurface hydrology, AGU Fall Meeting, H112–0019, 2020.
 - Brodie, E., King, E., Marschmann, G., Karaoz, U., Molins, S., and Steefel, C. I. Exploring The Relationship Between Biological Complexity, Spatial Heterogeneity and Process Rates In A Genome-informed Reactive Transport Model, AGU Fall Meeting, H112–0019.B078–0010, 2020.
@@ -31,12 +32,14 @@ hero_height: is_fullheight
 
 ## Critical Interfaces SFA Partnership: East Fork Poplar Creek Use Case
 ### PUBLICATIONS
-- Rathore, S., Schwartz, G., Brooks, S., and Painter, S.L. Model Selection and Joint Estimation of Biogeochemical Model Parameters from Multiple Experiments: A Bayesian Approach Applied to Mercury Methylation. (in review)
+- Rathore, Saubhagya S., Schwartz, Grace E., Brooks, Scott C., and Painter, Scott L.. Joint estimation of biogeochemical model parameters from multiple experiments: A bayesian approach applied to mercury methylation. Environmental Modelling & Software, 155, 1875374. [https://doi.org/10.1016/j.envsoft.2022.105453](https://doi.org/10.1016/j.envsoft.2022.105453), 2022
 - Jan, A., Coon, E. T., and Painter, S. L. Toward more mechanistic representations of biogeochemical processes in river networks: Implementation and demonstration of a multiscale model. Environmental Modelling & Software, 145, 105166. [https://doi.org/10.1016/j.envsoft.2021.105166](https://doi.org/10.1016/j.envsoft.2021.105166), 2021
 - Painter, S.L. On the Representation of Hyporheic Exchange in Models for Reactive Transport in Stream and River Corridors. Frontiers in Water, 2, 69. [https://doi.org/10.3389/frwa.2020.595538](https://doi.org/10.3389/frwa.2020.595538), 2021
 - Rathore, S.S., Jan, A., Coon, E.T. and Painter, S.L. On the reliability of parameter inferences in a multiscale model for transport in stream corridors. Water Resources Research, 57(5), e2020WR028908. [https://doi.org/10.1029/2020WR028908](https://doi.org/10.1029/2020WR028908), 2021
 
 ### PRESENTATIONS
+- PV Le, SS Rathore, and SL Painter. A multiscale model for representing transport in river basins with unsteady flow. AGU Fall Meeting 2022.
+- PS Becker, SL Paiinter, and SS Rathore. Where and when is including underflow important for representing denitrification in the hyporheic zone? AGU Fall Meeting 2022.
 - S Rathore and SL Painter. Improving the Representation of the Hydro-biogeochemical Function of Stream Corridors Using Observation-informed Multiscale Modeling. Invited, AGU Fall Meeting 2021.
 - X Chen, P Shuai, K Son, P Jiang, MK Mudunuru, E Coon, SL Painter. What can we learn from multiple watershed models and observations? AGU Fall Meeting 2021.
 - Baatz, Roland, Ana Maria Tarquis, Anne Verhoef, Scott L. Painter, Umakant Mishra, Jiri Simunek, Jan Vanderborght et al. The International Soil Modeling Consortium (ISMC)-New Opportunities for Advancing Data and Modeling of Soil Systems. AGU Fall Meeting 2021.
@@ -54,6 +57,8 @@ hero_height: is_fullheight
 - Song, H.S., Stegen, J.C., Graham, E.B., Lee, J.Y., Garayburu-Caruso, V.A., Nelson, W.C., Chen, X., Moulton, J.D. and Scheibe, T.D. Representing Organic Matter Thermodynamics in Biogeochemical Reactions via Substrate-Explicit Modeling. Frontiers in Microbiology, 2625. [https://doi.org/10.3389/fmicb.2020.531756](https://doi.org/10.3389/fmicb.2020.531756), 2020
 
 ### PRESENTATIONS
+- Zhi L., P. Shuai, and X. Chen.  Evaluating the transport of wildfire-induced pyrogenic nutrients in a grassland-shrub dominant watershed using a high-res numerical model. AGU Fall Meeting. Online, 2022.
+- Muller K., R. K. Kukkadapu, X. Chen, N. D. Ward, M. Bowe, R. K. Chu and Q. Zhao. Incorporating Colloidal Size Fractions and Organic Carbon Compound Classes into Biogeochemical models. AGU Fall Meeting, 2022.
 - Chen X., K. Son, P. Shuai, Y. Fang, P. Jiang, and J.D. Gomez Velez. Integrated Modeling of Carbon and Nitrogen Cycling in River Corridors and Watersheds. Biennial UF Water Institute Symposium, Tallahassee, Florida. Presented Online, 2022.
 - Chen X., P. Shuai, K. Son, P. Jiang, M. Mudunuru, E. Coon, and S.L. Painter. What Can We Learn from Multiple Watershed Models and Observations? AGU Fall Meeting, New Orleans, Louisiana, presented online, 2021.
 - Song X., G.E. Hammond, P. Shuai, X. Chen, and T.D. Scheibe. Simulate Surface Water-groundwater Exchange using High-Performance Particle Tracking. AGU Fall Meeting, New Orleans, Louisiana, presented online, 2021.
@@ -73,7 +78,7 @@ hero_height: is_fullheight
 ### PUBLICATIONS
 - Steyaert, J.C., Condon, L.E., WD Turner, S. and Voisin, N. ResOpsUS, a dataset of historical reservoir operations in the contiguous United States. Scientific Data, 9(1), 1-8. [https://doi.org/10.1038/s41597-022-01134-7](https://doi.org/10.1038/s41597-022-01134-7), 2022
 - Tran, H., Zhang, J., O'Neill, M.M., Ryken, A., Condon, L.E. and Maxwell, R.M. A hydrological simulation dataset of the Upper Colorado River Basin from 1983 to 2019. Scientific Data, 9(1), 1-17. [https://doi.org/10.6084/m9.figshare.16632454](https://doi.org/10.6084/m9.figshare.16632454), 2022
-- O'Neill, M. M., Tijerina, D. T., Condon, L. E. and Maxwell, R. M. Assessment of the ParFlow–CLM CONUS 1.0 integrated hydrologic model: evaluation of hyper-resolution water balance components across the contiguous United States. Geoscientific Model Development, 14(12), 7223-7254. https://doi.org/10.5194/gmd-14-7223-2021, 2021.
+- O'Neill, M. M., Tijerina, D. T., Condon, L. E. and Maxwell, R. M. Assessment of the ParFlow–CLM CONUS 1.0 integrated hydrologic model: evaluation of hyper-resolution water balance components across the contiguous United States. Geoscientific Model Development, 14(12), 7223-7254. [https://doi.org/10.5194/gmd-14-7223-2021](https://doi.org/10.5194/gmd-14-7223-2021), 2021.
 - Tijerina, D., Condon, L., FitzGerald, K., Dugger, A., O'Neill, M.M., Sampson, K., Gochis, D. and Maxwell, R. Continental Hydrologic Intercomparison Project, Phase 1: A Large‐Scale Hydrologic Model Comparison Over the Continental United States. Water Resources Research, 57(7), e2020WR028931. [https://doi.org/10.1029/2020WR028931](https://doi.org/10.1029/2020WR028931), 2021
 - Turner, S.W., Steyaert, J.C., Condon, L. and Voisin, N. Water storage and release policies for all large reservoirs of conterminous United States. Journal of Hydrology, 603, 126843. [https://doi.org/10.1016/j.jhydrol.2021.126843](https://doi.org/10.1016/j.jhydrol.2021.126843), 2021
 - Yang, C., Zhang, Y.K., Liang, X., Olschanowsky, C., Yang, X. and Maxwell, R. Accelerating the Lagrangian particle tracking of residence time distributions and source water mixing towards large scales. Computers and Geosciences, 151, 104760, [https://doi.org/10.1016/j.cageo.2021.104760](https://doi.org/10.1016/j.cageo.2021.104760), 2021
@@ -94,7 +99,12 @@ hero_height: is_fullheight
 - Maxwell, R.M., Condon, L.E., Danesh‐Yazdi, M. and Bearup, L.A. Exploring source water mixing and transient residence time distributions of outflow and evapotranspiration with an integrated hydrologic model and Lagrangian particle tracking approach. Ecohydrology, 12(1), e2042. [https://doi.org/10.1002/eco.2042](https://doi.org/10.1002/eco.2042), 2019
 
 ### PRESENTATIONS
-- Maxwell, R.M. Hydrology in the Supercomputing Age: How Computational Advances Have Revolutionized Our Field, and What Big Data and Massively Parallel Simulations Mean for the Future of Hydrologic Discovery. Stanford ESS Seminar, February 3, 2022.
+- Condon, LE. Lessons Learned Building a National Platform for Physically Rigorous Machine Learning and Hydrologic Simulation Across the US. AGU Fall Meeting, 2022.
+- West, B and LE Condon. Implementing Reservoir Operations in ParFlow, a Fully Integrated Physical Hydrology Model. AGU Fall Meeting, 2022.
+- Condon LE and Maxwell RM. Exploring Connections Between Shallow Groundwater and Evapotranspiration Across the US Using Integrated Hydrologic Models. AGU Fall Meeting, 2022.
+- Yang C and Maxwell RM. On regional groundwater flow systems in the contiguous US: How far and how deep? AGU Fall Meeting, 2022.
+- Tijerina D, Tran H, Yang C, et al. Developments in continental-scale, integrated hydrologic modeling: ParFlow-CONUS version 2.0. AGU Fall Meeting, 2022. 
+- Maxwell, RM. Hydrology in the Supercomputing Age: How Computational Advances Have Revolutionized Our Field, and What Big Data and Massively Parallel Simulations Mean for the Future of Hydrologic Discovery. Stanford ESS Seminar, February 3, 2022.
 - Condon LE. Groundwater-surface water modeling at the continental: scale Scientific advances, research opportunities and the need for community infrastructure. Invited Seminar presented at: Columbia University, Civil and Environmental Engineering, January 27, 2022.
 - Steyaert J, Condon LE, Turner S, Voisin N. A Retrospective Analysis of Historical Reservoir Operations and Their Impact on the Streamflow in CONUS. Oral presented at: American Geophysical Union Fall Meeting; New Orleans, LA, December 17, 2021.
 - Condon LE. Advancing continental scale data for water systems modeling. Invited Seminar presented at: Human Water Systems Webinar Series; Virtual, September 2021.
