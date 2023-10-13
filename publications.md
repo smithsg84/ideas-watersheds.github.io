@@ -30,7 +30,7 @@ hero_height: is_fullheight
 - Ozgen-Xian, I. et al, Meshing workflows for multiscale hydrological simulations: Wavelet-based approach improves model accuracy, AGU Fall meeting abstract H13L-1881, San Francisco, CA, 2019.
 - Xu, Z. et al, Understanding integrated hydrology and geochemistry processes in a mountainous watershed using the Advanced Terrestrial Simulator (ATS), AGU Fall meeting abstract H21J-1882, San Francisco, CA, 2019.
 
-## Critical Interfaces SFA Partnership: East Fork Poplar Creek Use Case
+## Watershed Dynamics and Evolution (WaDE) SFA Partnership
 ### PUBLICATIONS
 - Rathore, Saubhagya S., Schwartz, Grace E., Brooks, Scott C., and Painter, Scott L.. Joint estimation of biogeochemical model parameters from multiple experiments: A bayesian approach applied to mercury methylation. Environmental Modelling & Software, 155, 1875374. [https://doi.org/10.1016/j.envsoft.2022.105453](https://doi.org/10.1016/j.envsoft.2022.105453), 2022
 - Jan, A., Coon, E. T., and Painter, S. L. Toward more mechanistic representations of biogeochemical processes in river networks: Implementation and demonstration of a multiscale model. Environmental Modelling & Software, 145, 105166. [https://doi.org/10.1016/j.envsoft.2021.105166](https://doi.org/10.1016/j.envsoft.2021.105166), 2021

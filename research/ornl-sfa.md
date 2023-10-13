@@ -1,22 +1,21 @@
 ---
 layout: page_research
-title: Critical Interfaces SFA
+title: Watershed Dynamics and Evolution (WaDE) SFA
 permalink: /research/ornl-sfa
-subtitle: East Fork Poplar Creek Use Case (ORNL)
+subtitle: Oak Ridge National Laboratory
 hero_image: /../img/hero_research.jpg
 hero_height: is_fullheight
 
 ---
 
-Transient storage zones (TSZs) surrounding stream channels are locations where the downstream movement of water is delayed in comparison to the main channel flow. Metabolically active transient storage zones (MATSZs) are important subsets of TSZs that are responsible for a significant portion of carbon, nutrient, and trace metal processing, thus affecting stream biogeochemistry and, ultimately, downstream water quality.
+Many regions of the United States are projected to experience higher temperatures, more extreme heat events, and an intensifying hydrologic cycle with more frequent and severe storms and droughts. These climatic changes, coupled with accelerating land use and land cover change, are expected to result in dramatic and complex shifts in how watersheds function and the vital ecosystem services they provide. An improved understanding of the dominant processes controlling watershed hydro-biogeochemical function across a range of hydrologic regimes and land covers is necessary to better predict the interactive consequences of hydrologic intensification and land cover change at regional scales. Oak Ridge National Laboratory’s Watershed Dynamics and Evolution (WaDE) SFA is addressing critical knowledge gaps related to how watershed function responds to exogenous change using stream metabolism, a gauge of the rates of production and consumption of organic compounds, as an integrated measure of watershed function. This research is focused on representative watersheds with heterogenous land cover within the Tennessee River Basin, initially East Fork Poplar Creek (EFPC), Tennessee.
 
-<img width="500" src="/../img/critical_interfaces.png" align="right">
+<img width="800" src="/../img/wade-east-fork-ornl.png" align="right">
 
-The Critical Interfaces SFA at ORNL is elucidating and quantifying the role that coupled hydro-biogeochemical processes associated with MATSZs have on trace element fate and transformation in low-order freshwater stream systems, using the transport of Hg and its microbially mediated transformation to the neurotoxin methylmercury (MeHg) in East Fork Poplar Creek (EFPC), Tennessee as its use case shown in the Figure.
+The IDEAS-Watersheds project is partnering with the WaDE SFA to develop key capabilities needed to support the SFA’s goal of improved understanding of stream metabolism in partially urbanized watersheds. The partnership is implementing a high-resolution flow and reactive transport model for EFPC using the ATS and PFLOTRAN codes from the IDEAS-Watersheds software ecosystem. The models incorporate subgrid representations of oxygen dynamics that build on multiscale reactive transport capabilities developed previously in IDEAS-Watersheds. We will use measurements of oxygen dynamics from the WaDE SFA’s sensor network to evaluate and refine the model. The partnership is also adding the capability to model burial, resuspension, and transport of sediment-associated solutes to the ATS. This capability is of interest because carbon, nutrients and trace elements move through aquatic ecosystems with suspended sediment. 
 
-IDEAS-Watersheds Partnership with the Critical Interfaces SFA at ORNL will develop a process-rich modeling framework that enables laboratory-scale experiments to be linked with reach-scale field observations, contributing to the over-arching strategy of a new multiscale modeling methodology ([Painter 2018][Painter]) that makes it possible to tractably represent the effects of redox zonation and other fine-scale geochemical phenomena in reach-to-watershed–scale models. The approach extends highly successful residence-time frameworks to accommodate nonlinear multicomponent reactions and transient flows. We will complete the implementation and testing of the new hyporheic zone model as a subgrid model in integrated surface/subsurface flow models represented in Amanzi-ATS and apply it to two low-order streams.
 
-*Image: Hg transformation to MeHg in East Fork Poplar Creek, Tennessee, is the use case for the Partnership Activity with ORNL’s Critical Interfaces SFA. The transformation of Hg to MeHg is biologically mediated, coupled to in-stream nutrient cycling, and occurs only in anaerobic conditions in spatially limited regions. IDEAS-Watersheds will work with the Critical Interfaces SFA to address those multi-physics and multiscale modeling challenges. (Image provided by Oak Ridge National Laboratory.)*
+*Image: Left: Land cover map for East Fork Poplar Creek, Tennessee, Watershed showing medium intensity development in the headwater regions and deciduous forest downstream. Middle and right: ATS-simulated ponded surface water before (middle) and during (right) a storm event. Inundation patterns during the storm event reflect the pattern of developed land. Image credit: Saubhagya Rathore, ORNL.*
 
 [Painter]: https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2018WR022831
 
