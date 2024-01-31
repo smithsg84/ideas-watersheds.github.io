@@ -17,7 +17,7 @@ IDEAS-Watershed is organized around six Research Activities to address important
 The three Partnership Activities, each undertaken jointly with one of ESS’s interdisciplinary Science Focus Areas (SFAs) (LBNL, ORNL, PNNL), addresses biogeochemical cycling in streams across a wide range of stream orders in disparate climates and land-use conditions, from
 
 - **LBNL Watershed Function SFA: East River Use Case** – a pristine mountainous headwater catchment
-- **ORNL Critical Interfaces SFA: East Fork Poplar Creek Use Case** – a fourth-order mercury-contaminated stream in deciduous broadleaf forest in a semitropical humid climate
+- **ORNL Watershed Dynamics and Evolution (WaDE)  SFA** – a fourth-order mercury-contaminated stream in deciduous broadleaf forest in a semitropical humid climate
 - **PNNL River Corridor SFA: Columbia River Use Case** – to a heavily managed ninth-order river.
 
 The three regional SFAs share a long-term objective of elucidating how surface water/groundwater exchanges across a range of temporal and spatial scales control watershed-scale biogeochemical cycling.
