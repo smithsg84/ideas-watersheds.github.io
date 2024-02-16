@@ -7,15 +7,40 @@ hero_height: is_fullheight
 
 ---
 
+<style>
+    .wrapper {
+        display:grid;
+        grid-template-columns: 50% 50%;
+        grid-gap: 1em;
+        text-align:left;
+        vertical-align:middle;
+    }
+    .wrapper > div{
+        padding: 1em;
+    }
+    .wrapper > div:nth-child(odd){
+    }
+</style>
+
+<body>
+    <div class = "wrapper">
+
+    	<div><left><br><br>
+        <h4>Date: December 9-10, 2023<br>
+        Location: Stanford University, Green Earth Sciences Building
+        <br>Address: 367 Panama Mall Stanford Room: 365
+        <br><a href="https://campus-map.stanford.edu">Campus Map</a> 
+        </h4></left></div>
+
+        <div><right>
+        <img src="/img/photos/all_hands_group_photo.png" align="right"><br>
+        </right></div>
+
+    </div>
+</body>
+
 # Meeting Agenda:
 
-#### *Date: December 9-10, 2023*
-
-**Location: Stanford University, Green Earth Sciences Building** 
-
-Address: 367 Panama Mall Stanford Room: 365  [Campus Map](https://campus-map.stanford.edu)
-
-<br><br>
 #### Day 1: Saturday Noon-5PM (PST)
 
 |Wall Clock (PT) |  Elapsed Time (min)    | Talks/Activity
