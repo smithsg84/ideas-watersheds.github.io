@@ -7,11 +7,15 @@
   link: /software-ecosystem/
 - name: Publications
   link: /publications
-- name: Community Resources
+- name: Resources
   dropdown:
     - name: Seminars (Internal)
       link: /community/seminars/
+    - name: Meeting History
+      link: /community/meetings
     - name: HPC Best Practices
       link: https://ideas-productivity.org/events/hpc-best-practices-webinars/
     - name: Events
       link: /community/events
+    - name: IDEAS-Watershed Brochure
+      link: https://ess.science.energy.gov/wp-content/uploads/2022/05/IDEAS_Flyer.pdf

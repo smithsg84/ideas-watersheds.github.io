@@ -16,7 +16,7 @@
   link: /software-ecosystem/
 - name: Publications
   link: /publications/
-- name: Community Resources
+- name: Resources
   dropdown:
     - name: Seminars (Internal)
       link: /community/seminar
