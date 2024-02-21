@@ -22,12 +22,12 @@
 - name: Resources
   dropdown:
     - name: Seminars (Internal)
-      link: /community/seminars/
+      link: /resources/seminars/
     - name: Meeting History
-      link: /community/meetings
+      link: /resources/meetings
     - name: HPC Best Practices
       link: https://ideas-productivity.org/events/hpc-best-practices-webinars/
     - name: Events
-      link: /community/events
+      link: /resources/events
     - name: IDEAS-Watershed Brochure
       link: https://ess.science.energy.gov/wp-content/uploads/2022/05/IDEAS_Flyer.pdf

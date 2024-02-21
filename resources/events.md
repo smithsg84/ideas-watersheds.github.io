@@ -1,7 +1,7 @@
 ---
-layout: page_community
+layout: page_resources
 title: Events
-permalink: /community/events
+permalink: /resources/events
 hero_image: /img/black.jpg
 hero_height: is_fullheight
 

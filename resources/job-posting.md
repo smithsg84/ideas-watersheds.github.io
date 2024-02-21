@@ -1,7 +1,7 @@
 ---
-layout: page_community
+layout: page_resources
 title: Job Postings
-permalink: /community/job-posting
+permalink: /resources/job-posting
 hero_image: /img/black.jpg
 hero_height: is_fullheight
 

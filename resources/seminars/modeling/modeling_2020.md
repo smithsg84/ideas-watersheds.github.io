@@ -1,7 +1,7 @@
 ---
-layout: page_community
+layout: page_resources
 title: IDEAS-Watersheds Seminars
-permalink: /community/seminars/modeling_2020
+permalink: /resources/seminars/modeling_2020
 hero_image: /img/black.jpg
 hero_height: is_fullheight
 

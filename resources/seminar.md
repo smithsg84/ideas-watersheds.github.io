@@ -1,7 +1,7 @@
 ---
-layout: page_community
+layout: page_resources
 title: IDEAS-Watersheds Seminars (Internal)
-permalink: /community/seminars/
+permalink: /resources/seminars/
 hero_image: /img/black.jpg
 hero_height: is_fullheight
 
