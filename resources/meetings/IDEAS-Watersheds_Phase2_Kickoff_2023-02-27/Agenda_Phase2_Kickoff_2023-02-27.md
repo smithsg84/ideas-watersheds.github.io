@@ -1,7 +1,7 @@
 ---
 layout: page_resources
 title: IDEAS-Watersheds Phase 2 Kickoff
-permalink: /resources/meetings/meeting_notes
+permalink: /resources/meetings/IDEAS-Watersheds_Phase2_Kickoff_2023-02-27
 hero_image: /img/black.jpg
 hero_height: is_fullheight
 
