@@ -1,6 +1,6 @@
 ---
 layout: page_community
-title: IDEAS-Watersheds Team Meeting History
+title: IDEAS-Watersheds Team Meetings
 permalink: /community/meetings/
 hero_image: /img/black.jpg
 hero_height: is_fullheight

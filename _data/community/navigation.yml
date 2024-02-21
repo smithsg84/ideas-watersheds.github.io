@@ -11,7 +11,7 @@
   dropdown:
     - name: Seminars (Internal)
       link: /community/seminars/
-    - name: Meeting History
+    - name: Team Meetings
       link: /community/meetings
     - name: HPC Best Practices
       link: https://ideas-productivity.org/events/hpc-best-practices-webinars/
