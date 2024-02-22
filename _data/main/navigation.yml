@@ -10,8 +10,8 @@
 - name: Resources
   dropdown:
     - name: Seminars (Internal)
-      link: /resources/seminars/
-    - name: Meeting History
+      link: /resources/seminars
+    - name: Team Meetings
       link: /resources/meetings
     - name: HPC Best Practices
       link: https://ideas-productivity.org/events/hpc-best-practices-webinars/

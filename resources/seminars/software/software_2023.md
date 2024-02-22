@@ -1,6 +1,7 @@
 ---
 layout: page_resources
 title: IDEAS-Watersheds Seminars
+permalink: /resources/seminars/software_2023
 hero_image: /img/black.jpg
 hero_height: is_fullheight
 

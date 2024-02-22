@@ -1,6 +1,7 @@
 ---
 layout: page_resources
 title: IDEAS-Watersheds Seminars
+permalink: /resources/seminars/modeling_2023
 hero_image: /img/black.jpg
 hero_height: is_fullheight
 
@@ -15,3 +16,4 @@ hero_height: is_fullheight
 | Date        |  Presenter                             | Title and Topic Description                    |
 |:------------|:---------------------------------------|:-----------------------------------------------|
 | May 2      | Zhi Li, PNNL                     | Watershed hydrologic and biogeochemical responses to wildfires in the Pacific Northwest |
+

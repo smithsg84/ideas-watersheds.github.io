@@ -10,7 +10,7 @@
 - name: Resources
   dropdown:
     - name: Seminars (Internal)
-      link: /resources/seminars/
+      link: /resources/seminars
     - name: Team Meetings
       link: /resources/meetings
     - name: HPC Best Practices
