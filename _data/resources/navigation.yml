@@ -1,0 +1,21 @@
+
+- name:  About
+  link: /about/
+- name: Research Activities
+  link: /research/
+- name: Software Ecosystem
+  link: /software-ecosystem/
+- name: Publications
+  link: /publications
+- name: Resources
+  dropdown:
+    - name: Seminars (Internal)
+      link: /resources/seminars
+    - name: Team Meetings
+      link: /resources/meetings
+    - name: HPC Best Practices
+      link: https://ideas-productivity.org/events/hpc-best-practices-webinars/
+    - name: Events
+      link: /resources/events
+    - name: IDEAS-Watershed Brochure
+      link: https://ess.science.energy.gov/wp-content/uploads/2022/05/IDEAS_Flyer.pdf
