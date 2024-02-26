@@ -13,6 +13,8 @@
       link: /resources/seminars
     - name: Team Meetings
       link: /resources/meetings
+    - name: Plenary
+      link: /resources/plenary
     - name: HPC Best Practices
       link: https://ideas-productivity.org/events/hpc-best-practices-webinars/
     - name: Events
