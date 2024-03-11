@@ -17,7 +17,7 @@ IDEAS-Watersheds integrates standalone siloed codes into an interoperable softwa
 IDEAS-Watersheds team members lead development on **Primary Codes** and **Primary Workflow Tools** and integrate with *Third Party Codes* and *Third Party Workflow Tools*.
 
 <p align="center">
-  <img width="600" src="/img/Ecosystem.png">
+  <img width="600" src="/img/EBSD0412_Ecosystem2023_3partyB.png">
 </p>
 
 

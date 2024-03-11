@@ -11,7 +11,7 @@ Water resources are critically important for energy production, drinking water, 
 
 <br>
 <p align="center">
-  <img width="800" src="/img/shared_infrastructure3.png">
+  <img width="800" src="/img/EBSD0412_partnerships2023v2.png">
 </p>
 <br>
 

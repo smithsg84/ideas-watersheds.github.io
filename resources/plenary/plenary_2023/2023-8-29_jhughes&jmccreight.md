@@ -31,7 +31,7 @@ hero_height: is_fullheight
         </left></div>
 
         <div><right>
-        <img src="../../../img/IDEAS_watershed-logo_blueText.png" align="center"><br>
+        <img src="../../../../img/IDEAS_watershed-logo_blueText.png" align="center"><br>
         </right></div>
 
     </div>

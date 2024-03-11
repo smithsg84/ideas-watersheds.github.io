@@ -27,11 +27,11 @@ hero_height: is_fullheight
         <h3><strong>
         Holly Michael</strong></h3>
         <em>Tuesday, September 26 at 1:00-2:00 PM PT / 4:00-5:00 PM ET</em><br>
-        <br><br><strong>Bio:</strong> Holly Michael is the Unidel Fraser Russell Chair in the Environment and Professor in the Departments of Earth Sciences and Civil and Environmental Engineering at the University of Delaware. She is also Director of the Delaware Environmental Institute. She holds a BS in Civil Engineering from the University of Notre Dame and a PhD in Hydrology from the Massachusetts Institute of Technology. Her research interests include water resource management, contaminant hydrology, coastal hydrogeology, groundwater-surface water interactions, and geostatistics. Some of her current projects include investigating groundwater flow into estuaries, modeling groundwater salinization due to climate change, evaluating sustainability of arsenic-safe groundwater in Bangladesh, and application of experimental economics to groundwater resources.
+        <br><br><br><br>
         </left></div>
 
         <div><right>
-        <img src="../../../img/photos/hmichael.png" align="center"><br>
+        <img src="../../../../img/photos/hmichael.png" align="center"><br>
         </right></div>
 
     </div>
