@@ -14,7 +14,7 @@ For the first four years, [IDEAS-Classic][IDEAS-Classic] made significant progre
 In the next three years, IDEAS-Watersheds will focus on development and demonstration of critical modeling capabilities needed to further advance a process-rich computational capability to support watershed hydrobiogeochemical system science, eventually at river-basin scales – including improved representations of biogeochemical processes and their hydrological controls in the headwaters and stream/river corridors of watersheds.
 
 <p align="center">
-  <img width="500" src="/img/Pillars_hero.png">
+  <img width="500" src="/img/DELIVERABLE_pillarsAlt.png">
 </p>
 
 The IDEAS project has adopted a more intentional approach to interoperability by advancing formal interfaces to key component capability. The adoption of interoperability as a design philosophy has the potential to significantly reduce duplication of effort and improve scientific productivity for computational environmental scientists.
