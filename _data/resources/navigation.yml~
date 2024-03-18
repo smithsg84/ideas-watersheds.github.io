@@ -18,7 +18,7 @@
   link: /publications/
 - name: Resources
   dropdown:
-    - name: Seminars (Internal)
+    - name: Internal Seminars
       link: /community/seminar
     - name: HPC Best Practices
       link: https://ideas-productivity.org/events/hpc-best-practices-webinars/

@@ -18,20 +18,27 @@ hero_height: is_fullheight
     }
     .wrapper > div:nth-child(odd){
     }
+    /* Add this CSS rule to set the height of the image */
+    .wrapper img {
+        height: 200px; /* Adjust the height value as needed */
+    }
 </style>
 
 <body>
     <div class = "wrapper">
 
-        <div><left><br><br>
-        <h3><strong>
-        Joseph D Hughes & James McCreight</strong></h3>
-        <em>Tuesday, August 29 at 1:00-2:00 PM PT / 4:00-5:00 PM ET</em><br>
-        <br><br><br><br>
+        <div><left>
+        <h3><strong>Joseph D Hughes & James McCreight</strong></h3>
+        Hydrologist <br>
+        Water Resources Mission Area<br>
+        <b>U.S. Geological Survey</b>
+        <br><br>
+        <em>Tuesday, August 29 at 1:00-2:00 PM PT / 4:00-5:00 PM ET</em>
+        <br><br>
         </left></div>
 
         <div><right>
-        <img src="../../../../img/IDEAS_watershed-logo_blueText.png" align="center"><br>
+        <img src="../../../../img/photos/jhughes.png" align="center"><br>
         </right></div>
 
     </div>

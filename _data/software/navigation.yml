@@ -15,11 +15,11 @@
   link: /publications
 - name: Resources
   dropdown:
-    - name: Seminars (Internal)
+    - name: Internal Seminars
       link: /resources/seminars
     - name: Team Meetings
       link: /resources/meetings
-    - name: Plenary
+    - name: Plenary Seminars
       link: /resources/plenary
     - name: HPC Best Practices
       link: https://ideas-productivity.org/events/hpc-best-practices-webinars/
