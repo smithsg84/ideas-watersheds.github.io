@@ -20,13 +20,13 @@
   dropdown:
     - name: Internal Seminars
       link: /resources/seminars
-    - name: Team Meetings
-      link: /resources/meetings
     - name: Plenary Seminars
       link: /resources/plenary
-    - name: HPC Best Practices
-      link: https://ideas-productivity.org/events/hpc-best-practices-webinars/
+    - name: Team Meetings
+      link: /resources/meetings
     - name: Events
       link: /resources/events
     - name: IDEAS-Watershed Brochure
       link: https://ess.science.energy.gov/wp-content/uploads/2022/05/IDEAS_Flyer.pdf
+    - name: HPC Best Practices (on IDEAS-ECP website)
+      link: https://ideas-productivity.org/events/hpc-best-practices-webinars/
