@@ -1,7 +1,7 @@
 ---
 layout: page_resources
-title: Events
-permalink: /resources/events
+title: Training and Outreach
+permalink: /resources/outreach
 hero_image: /img/black.jpg
 hero_height: is_fullheight
 
