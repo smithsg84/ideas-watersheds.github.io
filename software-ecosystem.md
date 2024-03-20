@@ -33,7 +33,7 @@ The **IDEAS–Watersheds** project enables scientific software development by bu
 
 IDEAS-Watersheds is advancing a community collaboration model around an “ecosystem” of interoperable components that can be used to build or extend scientific applications.
 
-IDEAS-Watersheds team members lead development on **Primary Codes** and **Primary Workflow Tools** and integrate with *Third Party Codes* and *Third Party Workflow Tools*.
+IDEAS-Watersheds team members lead development on [**Primary Codes**](/software-ecosystem/codes.md) and [**Primary Workflow Tools**](/software-ecosystem/workflowtools.md) and integrate with *Third Party Codes* and *Third Party Workflow Tools*.
 
 <body>
     <div class = "wrapper">

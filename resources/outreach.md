@@ -15,6 +15,13 @@ The IDEAS-Watersheds project (co-)organizes a variety of workshops and trainings
 
 # Past Events
 
+### Best Practices Seminars
+
+* [Plenary Series](plenary.md)
+* [Modeling Case Studies](seminars.md)
+* [Software Best Pactices](seminars.md)
+
+
 ### Short Courses
 
 * ATS Short Courses 
