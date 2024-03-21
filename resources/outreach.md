@@ -9,17 +9,19 @@ hero_height: is_fullheight
 
 The IDEAS-Watersheds project (co-)organizes a variety of workshops and trainings, and presents at events of interest to the community. Details on individual presentations at these events are included in our [publications page](/publications).
 
-# Upcoming Events
+# Upcoming Activities
 
 * Stay tuned, more to follow soon. 
 
-# Past Events
+# Past Activities
 
 ### Best Practices Seminars
 
-* [Plenary Series](plenary.md)
-* [Modeling Case Studies](seminars.md)
-* [Software Best Pactices](seminars.md)
+The IDEAS-Watersheds project hosts a variey of concurrent series each month. These include:
+
+* [Plenary Series](plenary.md) featuring our Nation’s watershed science with the aim of furthering a robust, predictive understanding of how watersheds function and respond to perturbations as hydrobiogeochemical systems
+* [Modeling Case Studies](seminars.md) raise awareness of the challenges and approaches to process-based modeling, sharing our experiences and stimulating new collaborations on synergistic topics across the project.
+* [Software Best Pactices](seminars.md) cover topics relevant to both workflow tools and simulation codes including, version control, continuous integration and testing, parallel debugging and visualization.
 
 
 ### Short Courses

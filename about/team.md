@@ -24,6 +24,7 @@ hero_height: is_fullheight
 </style>
 
 <body>
+    <h1>SFA Partnerships</h1>
 	<h2>LBNL Watershed Function SFA (LBNL)</h2>
     <div class = "wrapper">
         
@@ -131,11 +132,91 @@ hero_height: is_fullheight
 
     </div>
 
-    <h2>Land Model Interface (LMI)</h2>
+    <h1>Shared Infrastructure</h1>
+
+    <h2>Software Ecosystem</h2>
+
+    <div class = "wrapper">
+
+        <div><center>
+        <img src="../img/photos/dmoulton.png" alt="Default Image" style="width:150px;height:150px">
+        <h3>David Moulton</h3>
+        <em>Lead</em> 
+        </center></div>
+
+        <div><center>
+        <img src="../img/photos/rfiorella.png" alt="Default Image" style="width:150px;height:150px">
+        <h3>Rich Fiorella</h3>
+        <em></em> 
+        </center></div>
+
+        <div><center>
+        <img src="../img/photos/ssmith.png" alt="Default Image" style="width:150px;height:150px">
+        <h3>Steve Smith</h3>
+        <em></em> 
+        </center></div>
+
+    </div>
+
+    <h2>Software Stewards</h2>
+
+    <div class = "wrapper">
+
+        <div><center>
+        <img src="../img/photos/ssmith.png" alt="Default Image" style="width:150px;height:150px">
+        <h3>Steve Smith</h3>
+        <em>Lead</em> 
+        </center></div>
+
+        <div><center>
+        <img src="../img/photos/ecoon.png" alt="Default Image" style="width:150px;height:150px">
+        <h3>Ethan Coon</h3>
+        <em></em> 
+        </center></div>
+
+        <div><center>
+        <img src="../img/photos/ghammond.png" alt="Default Image" style="width:150px;height:150px">
+        <h3>Glenn Hammond</h3>
+        <em></em> 
+        </center></div>
+
+        <div><center>
+        <img src="../img/photos/smolins.png" alt="Default Image" style="width:150px;height:150px">
+        <h3>Sergi Molins</h3>
+        <em></em> 
+        </center></div>
+
+    </div>
+
+    <h2>Integrated Hydrologic Simulation Infrastructure (IHSI)</h2>
 
     <div class = "wrapper">
 
     	<div><center>
+        <img src="../img/photos/lcondon.png" alt="Default Image" style="width:150px;height:150px">
+        <h3>Laura Condon</h3>
+        <em>Lead</em> 
+        </center></div>
+
+        <div><center>
+        <img src="../img/photos/rmaxwell.png" alt="Default Image" style="width:150px;height:150px">
+        <h3>Reed Maxwell</h3>
+        <em>Lead</em> 
+        </center></div>
+
+        <div><center>
+        <img src="../img/photos/gartavanis.png" alt="Default Image" style="width:150px;height:150px">
+        <h3>George Artavanis</h3>
+        <em></em> 
+        </center></div>
+
+    </div>
+
+    <h2>Land Model Interface (LMI)</h2>
+
+    <div class = "wrapper">
+
+        <div><center>
         <img src="../img/photos/dmoulton.png" alt="Default Image" style="width:150px;height:150px">
         <h3>David Moulton</h3>
         <em>Lead</em> 
@@ -166,78 +247,7 @@ hero_height: is_fullheight
         </center></div>
 
     </div>
-
-    <h2>Integrated Hydrologic Simulation Infrastructure (IHSI)</h2>
-
-    <div class = "wrapper">
-
-    	<div><center>
-        <img src="../img/photos/lcondon.png" alt="Default Image" style="width:150px;height:150px">
-        <h3>Laura Condon</h3>
-        <em>Lead</em> 
-        </center></div>
-
-        <div><center>
-        <img src="../img/photos/rmaxwell.png" alt="Default Image" style="width:150px;height:150px">
-        <h3>Reed Maxwell</h3>
-        <em>Lead</em> 
-        </center></div>
-
-        <div><center>
-        <img src="../img/photos/gartavanis.png" alt="Default Image" style="width:150px;height:150px">
-        <h3>George Artavanis</h3>
-        <em></em> 
-        </center></div>
-
-    </div>
-
-    <h2>Software Ecosystem</h2>
-
-    <div class = "wrapper">
-
-    	<div><center>
-        <img src="../img/photos/dmoulton.png" alt="Default Image" style="width:150px;height:150px">
-        <h3>David Moulton</h3>
-        <em>Lead</em> 
-        </center></div>
-
-        <div><center>
-        <img src="../img/photos/rfiorella.png" alt="Default Image" style="width:150px;height:150px">
-        <h3>Rich Fiorella</h3>
-        <em></em> 
-        </center></div>
-
-    </div>
-
-    <h2>Software Stewards</h2>
-
-    <div class = "wrapper">
-
-    	<div><center>
-        <img src="../img/photos/ssmith.png" alt="Default Image" style="width:150px;height:150px">
-        <h3>Steve Smith</h3>
-        <em>Lead</em> 
-        </center></div>
-
-        <div><center>
-        <img src="../img/photos/ecoon.png" alt="Default Image" style="width:150px;height:150px">
-        <h3>Ethan Coon</h3>
-        <em></em> 
-        </center></div>
-
-        <div><center>
-        <img src="../img/photos/ghammond.png" alt="Default Image" style="width:150px;height:150px">
-        <h3>Glenn Hammond</h3>
-        <em></em> 
-        </center></div>
-
-        <div><center>
-        <img src="../img/photos/smolins.png" alt="Default Image" style="width:150px;height:150px">
-        <h3>Sergi Molins</h3>
-        <em></em> 
-        </center></div>
-
-    </div>
+    
 </body>
 
 <div style="padding-block: 20px;"><h3>Team Alumni</h3>
