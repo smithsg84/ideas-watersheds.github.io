@@ -1,18 +1,19 @@
 ---
 layout: page_about
-title: Project Team
+title: IDEAS-Watersheds Team Members
 permalink: /about/team
 hero_image: /img/hero_logo.jpg
 hero_height: is_fullheight
 
 ---
-<h1>IDEAS-Watersheds Team Members</h1>
-
 <style>
     .wrapper {
         display:grid;
-        grid-template-columns: 19% 19% 19% 19% 19%;
-        grid-gap: 1em;
+        grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+        max-width: 1250px;
+        margin: 1px auto;
+        padding: 20px;
+        gap: 20px;
     }
     .wrapper > div{
         background:#eee;
@@ -25,7 +26,7 @@ hero_height: is_fullheight
 
 <body>
     <h1>SFA Partnerships</h1>
-	<h2>LBNL Watershed Function SFA (LBNL)</h2>
+	<h3>LBNL Watershed Function SFA (LBNL)</h3>
     <div class = "wrapper">
         
         <div><center>
@@ -60,7 +61,7 @@ hero_height: is_fullheight
 
     </div>
 
-	<h2>Watershed Dynamics and Evolution (WaDE) SFA (ORNL)</h2>
+	<h3>Watershed Dynamics and Evolution (WaDE) SFA (ORNL)</h3>
 
     <div class = "wrapper">
 
@@ -90,7 +91,7 @@ hero_height: is_fullheight
 
     </div>
 
-    <h2>River Corridor SFA (PNNL)</h2>
+    <h3>River Corridor SFA (PNNL)</h3>
 
     <div class = "wrapper">
 
@@ -134,7 +135,7 @@ hero_height: is_fullheight
 
     <h1>Shared Infrastructure</h1>
 
-    <h2>Software Ecosystem</h2>
+    <h3>Software Ecosystem</h3>
 
     <div class = "wrapper">
 
@@ -158,7 +159,7 @@ hero_height: is_fullheight
 
     </div>
 
-    <h2>Software Stewards</h2>
+    <h3>Software Stewards</h3>
 
     <div class = "wrapper">
 
@@ -188,7 +189,7 @@ hero_height: is_fullheight
 
     </div>
 
-    <h2>Integrated Hydrologic Simulation Infrastructure (IHSI)</h2>
+    <h3>Integrated Hydrologic Simulation Infrastructure (IHSI)</h3>
 
     <div class = "wrapper">
 
@@ -212,7 +213,7 @@ hero_height: is_fullheight
 
     </div>
 
-    <h2>Land Model Interface (LMI)</h2>
+    <h3>Land Model Interface (LMI)</h3>
 
     <div class = "wrapper">
 
