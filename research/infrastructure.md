@@ -85,5 +85,5 @@ The Shared Infrastructure can be shared among the SFAs to support those multi-sc
     </div>
 </body>
 <br>
-<strong><em>Image:  Example relationship of modeling domains across scales: the multiscale workflow activity will enable model output to be used to drive boundary conditions of models at finer scales. Workflows will also be developed to work with model input data in native formats and scales, and map it to the desired computational mesh. Particle-based methods are being advanced to analyze scaling relationships and identify potential strategies for bridging fine-scale mechanistic models and understanding to larger scales.</strong></em>
+<strong><em>Image:  Example relationship of modeling domains across scales: the multiscale workflow activity will enable model output to be used to drive boundary conditions of models at finer scales. Workflows will also be developed to work with model input data in native formats and scales, and map it to the desired computational mesh. Particle-based methods are being advanced to analyze scaling relationships and identify potential strategies for bridging fine-scale mechanistic models and understanding to larger scales.</em></strong>
 
