@@ -47,10 +47,12 @@ By tightly integrating observations, experiments, and modeling, ESS advances sys
         <li> Integrated flow and reactive transport modeling</li>
         <li> Model/data integration</li>
         <li> High-performance computing</li>
-        </ul>
+        </ul> <br>
+  <strong>IDEAS-Watersheds Project.</strong> Each Science Focus Area’s multiscale scope includes enhancing biogeochemical reaction network models, stream and river corridor models, and multiscale models of hydro-biogeochemical function across the entire watershed. The shared infrastructure activities support required multiscale workflows and capabilities and deliver them through the software ecosystem.
   </div>
   <div class="col2"><img src="/img/EBSD0412_partnerships2023v2.png"></div>
 </div>
+
 
 [IDEAS-Classic](https://ideas-productivity.org/ideas-classic)
 <br>[IDEAS](https://ideas-productivity.org)
