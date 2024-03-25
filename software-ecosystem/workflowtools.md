@@ -29,7 +29,7 @@ hero_height: is_fullheight
 <body>
     <div class = "wrapper">
         
-        <div><center>
+        <div><center><br>
         <img src="../../img/code_priorityflow.png" align="center"><br><br><br>
         <strong><a href="/software-ecosystem/codes/priorityflow"> PriorityFlow </a></strong><br>
         PriorityFlow is a toolkit for topographic processing for hydrologic models.
@@ -41,8 +41,8 @@ hero_height: is_fullheight
         TINerator is a tool for the fast creation of extruded and refined meshes from DEM and GIS data.
         </center></div>
 
-        <div><center>
-        <img src="../../img/code_watershedworkflow.png" align="center"><br><br><br>
+        <div><center><br>
+        <img src="../../img/IDEAS_watershed-logo_blueText.png" align="center"><br><br><br>
         <strong><a href="/software-ecosystem/codes/watershedworkflow"> Watershed Workflow </a></strong><br>
         Watershed Workflow is a chain of tools for generating meshes and other data inputs for hyper-resolution hydrology.
         </center></div>
