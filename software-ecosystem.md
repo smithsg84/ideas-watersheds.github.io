@@ -8,21 +8,21 @@ hero_height: is_fullheight
 ---
 
 <style>
-    .wrapper {
-        display:grid;
-        grid-template-columns: 70% 30%;
-        grid-gap: 1em;
-        text-align:left;
-        vertical-align:middle;
+    .cont {
+      display: flex;
+      flex-wrap: wrap;
+      padding: 20px;
+      column-gap: 20px;
     }
-    .wrapper > div{
-        padding: 1em;
+
+    .col1 {
+      flex: 3; 
+      min-width: 400px;
     }
-    .wrapper > div:nth-child(odd){
-    }
-    /* Add this CSS rule to set the height of the image */
-    .wrapper img {
-        height: 600px; /* Adjust the height value as needed */
+
+    .col2 {
+      flex: 2;
+      min-width: 400px;
     }
 </style>
 
@@ -36,23 +36,19 @@ IDEAS-Watersheds is advancing a community collaboration model around an “ecosy
 IDEAS-Watersheds team members lead development on [**Primary Codes**](/software-ecosystem/codes.md) and [**Primary Workflow Tools**](/software-ecosystem/workflowtools.md) and integrate with *Third Party Codes* and *Third Party Workflow Tools*.
 
 <body>
-    <div class = "wrapper">
-
-      <div><left>
-        <img src="/img/EBSD0412_Ecosystem2023_3partyB.png"><br>
-        </left></div>
-
-      <div><right><br><br>
-        <b>Workflow Tools</b> support data collection and preprocessing, model setup, ensembles of simulations, post processing and analysis.
-        <br><br>
-        <b>Codes and Interface Libraries</b> support flexible mechanistic and multi-scale simulations of coupled hydro-biogechemical processes.
-        <br><br>
-        <b>Primary Codes and Workflow Tools:</b> Members of our team contribute to design and development.
-        <br><br>
-        <b>Third Party Codes and Workflow Tools:</b> We are users, development is led outside IDEAS-Watersheds.
-        <br><br></right></div>
-
+    <div class="cont">
+        <div class="col1">
+          <img width="85%" src="/img/EBSD0412_Ecosystem2023_3partyB.png">
+        </div>
+    <div class="col2">
+        <ul><br><br><br>
+        <li> <b><a href="https://ideas-watersheds.github.io/software-ecosystem/workflowtools/">Workflow Tools</a></b> support data collection and preprocessing, model setup, ensembles of simulations, post processing and analysis.</li>
+        <li> <b>Codes and Interface Libraries</b> support flexible mechanistic and multi-scale simulations of coupled hydro-biogechemical processes.</li>
+        <li><b> <a href="https://ideas-watersheds.github.io/software-ecosystem/codes/">Primary Codes</a> and Workflow Tools:</b> Members of our team contribute to design and development.</li>
+        <li> <b>Third Party Codes and Workflow Tools:</b> We are users, development is led outside IDEAS-Watersheds.</li>
+        </ul>
     </div>
+</div>
 </body>
 
-The <b>Software Stewardship Activity</b> ensures sustainability of the software ecosystem and focuses on support for the primary workflow tools and codes.  This approach helps researchers accelerate watershed science by providing well tested and documented new or enhanced capabilities, while supporting and promoting best practices in reproducible, transparent and transferable modeling and simulation.
+The <b><a href="/research/infrastructure">Software Stewardship Activity</a></b> ensures sustainability of the software ecosystem and focuses on support for the primary [**Workflow Tools**](/software-ecosystem/workflowtools.md) and [**Codes**](/software-ecosystem/codes.md).  This approach helps researchers accelerate watershed science by providing well tested and documented new or enhanced capabilities, while supporting and promoting best practices in reproducible, transparent and transferable modeling and simulation.

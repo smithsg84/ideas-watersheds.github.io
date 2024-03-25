@@ -8,25 +8,26 @@ hero_height: is_fullheight
 ---
 
 <style>
-    .wrapper {
-        display:grid;
-        grid-template-columns: 40% 60%;
-        grid-gap: 1em;
-        text-align:left;
-        vertical-align:middle;
+    .cont {
+      display: flex;
+      flex-wrap: wrap;
     }
-    .wrapper > div{
-        padding: 1em;
+
+.col1 {
+      flex: 2; 
+      min-width: 200px;
     }
-    .wrapper > div:nth-child(odd){
+
+.col2 {
+      flex: 3;
+      min-width: 400px;
     }
-    
 
 </style>
 
 # Background
 
-The **Interoperable Design of Extreme-scale Application Software** ([IDEAS][IDEAS]) project, initiated in 2014,  helps ESS and other scientists in the Office of Biological and Environmental Research (BER) increase software development productivity—a key aspect of overall scientific productivity—through a new interdisciplinary and agile approach to creating sustainable, reliable, high-performance scientific software. 
+The **Interoperable Design of Extreme-scale Application Software** ([IDEAS](https://ideas-productivity.org/)) project, initiated in 2014,  helps ESS and other scientists in the Office of Biological and Environmental Research (BER) increase software development productivity—a key aspect of overall scientific productivity—through a new interdisciplinary and agile approach to creating sustainable, reliable, high-performance scientific software. 
 
 For the first four years, [IDEAS-Classic](https://ideas-productivity.org/ideas-classic/) made significant progress toward improving scientific productivity in integrated hydrological/biogeochemical systems modeling.
 
@@ -34,21 +35,16 @@ In the next three years, IDEAS-Watersheds will focus on development and demonstr
 
 # Addresses Challenges of Computational Watershed Science:
 
-<div class = "wrapper">
-
-      <div><left>
-      <ul>
+<div class="cont">
+  <div class="col1">
+    <ul>
         <li> Represent the effects of fine-scale biogeochemical process understanding at societally relevant scales</li>
         <li> Improve interoperability of existing tools and advance new capabilities to expose untapped synergies across projects.</li>
         <li> Realize potential of HPC resources by improving software design and engineering practices.</li>
-        <li> Develop multiscale model-data integration and analysis workflows that leverage rapidly growing and diverse data sources.</li>
-        </ul></left></div>
-
-      <div><right><center>
-        <img src="/img/DELIVERABLE_pillarsAlt.png">
-        </center></right></div>
-
-</div><br>
+        <li> Develop multiscale model-data integration and analysis workflows that leverage rapidly growing and diverse data sources.
+        </li></ul></div>
+  <div class="col2"><center><img src="/img/DELIVERABLE_pillarsAlt.png"></center></div>
+</div>
 
 The IDEAS project has adopted a more intentional approach to interoperability by advancing formal interfaces to key component capability. The adoption of interoperability as a design philosophy has the potential to significantly reduce duplication of effort and improve scientific productivity for computational environmental scientists.
 

@@ -7,10 +7,14 @@ hero_height: is_fullheight
 
 ---
 <style>
+    
     .wrapper {
         display:grid;
-        grid-template-columns: 25% 25% 25% 25%;
-        grid-gap: 1em;
+        grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+        max-width: 1250px;
+        margin: 1px auto;
+        padding: 20px;
+        gap: 20px;
     }
     .wrapper > div{
         background:#eee;
