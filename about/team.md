@@ -59,6 +59,12 @@ hero_height: is_fullheight
         <em></em> 
         </center></div>
 
+        <div><center>
+        <img src="../img/photos/lwang.png" alt="Default Image" style="width:150px;height:150px">
+        <h3>Lijing Wang</h3>
+        <em></em> 
+        </center></div>
+
     </div>
 
 	<h3>Watershed Dynamics and Evolution (WaDE) SFA (ORNL)</h3>
@@ -128,6 +134,12 @@ hero_height: is_fullheight
         <div><center>
         <img src="../img/photos/hsong.png" alt="Default Image" style="width:150px;height:150px">
         <h3>Hyun-Seob Song</h3>
+        <em></em> 
+        </center></div>
+
+        <div><center>
+        <img src="../img/photos/fguerrero.png" alt="Default Image" style="width:150px;height:150px">
+        <h3>Francisco Guerrero</h3>
         <em></em> 
         </center></div>
 
@@ -208,6 +220,12 @@ hero_height: is_fullheight
         <div><center>
         <img src="../img/photos/gartavanis.png" alt="Default Image" style="width:150px;height:150px">
         <h3>George Artavanis</h3>
+        <em></em> 
+        </center></div>
+
+        <div><center>
+        <img src="../img/photos/cyang.png" alt="Default Image" style="width:150px;height:150px">
+        <h3>Chen Yang</h3>
         <em></em> 
         </center></div>
 

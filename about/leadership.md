@@ -82,7 +82,7 @@ IDEAS-Watersheds brings together efforts across multiple labs and universities.
   <div class="col1">
   <img class="alignleft" src="../img/photos/ecoon.png" alt="Ethan Coon" width="150" height="150">
   </div>
-  <div class="col2"><strong>Ethan Coon, Land Model Interface Lead</strong><br>(LMI Activity Co-Lead, Software Steward)<br><em>University of Arizona</em></div>
+  <div class="col2"><strong>Ethan Coon, Land Model Interface Lead</strong><br>(Software Steward)<br><em>University of Arizona</em></div>
 </div>
 
 <div class="cont">
