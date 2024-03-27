@@ -223,12 +223,6 @@ hero_height: is_fullheight
         <em></em> 
         </center></div>
 
-        <div><center>
-        <img src="../img/photos/cyang.png" alt="Default Image" style="width:150px;height:150px">
-        <h3>Chen Yang</h3>
-        <em></em> 
-        </center></div>
-
     </div>
 
     <h3>Land Model Interface (LMI)</h3>
@@ -266,9 +260,39 @@ hero_height: is_fullheight
         </center></div>
 
     </div>
-    
+
+    <h3> Outreach and Training</h3>
+
+    <div class = "wrapper">
+
+        <div><center>
+        <img src="../img/photos/dmoulton.png" alt="Default Image" style="width:150px;height:150px">
+        <h3>David Moulton</h3>
+        <em>Lead</em> 
+        </center></div>
+
+        <div><center>
+        <img src="../img/photos/dsvyatsky.png" alt="Default Image" style="width:150px;height:150px">
+        <h3>Daniil Svyatsky</h3>
+        <em></em> 
+        </center></div>
+
+        <div><center>
+        <img src="../img/photos/stokareva.png" alt="Default Image" style="width:150px;height:150px">
+        <h3>Svetlana Tokareva</h3>
+        <em></em> 
+        </center></div>
+
+        <div><center>
+        <img src="../img/photos/ehinrichs.png" alt="Default Image" style="width:150px;height:150px">
+        <h3>Erica Hinrichs</h3>
+        <em></em> 
+        </center></div>
+
+    </div>
+
 </body>
 
 <div style="padding-block: 20px;"><h3>Team Alumni</h3>
-Dave Gochis (NCAR), Kewei Chen (PNNL), Joe Beisman (LANL), Ilhan Ozgen (LBNL), Ahmad Jan (ORNL), Peishi Jiang (PNNL), Pin Shuai   (PNNL), Xuehang Song (PNNL), Hoang Tran  (Colorado School of Mines), Mary Michael (Colorado School of Mines), Jun Zhang  (University of Arizona), Jen Stayeart (University of Arizona), Daniel Livingston (LANL), Angelic Arzola Roig (LANL) 
+Dave Gochis (NCAR), Kewei Chen (PNNL), Joe Beisman (LANL), Ilhan Ozgen (LBNL), Ahmad Jan (ORNL), Peishi Jiang (PNNL), Pin Shuai   (PNNL), Xuehang Song (PNNL), Hoang Tran  (Colorado School of Mines), Mary Michael (Colorado School of Mines), Jun Zhang  (University of Arizona), Jen Stayeart (University of Arizona), Daniel Livingston (LANL), Angelic Arzola Roig (LANL), Chen Yang (Princeton), Nichole Jeffery (LANL)
 </div>
