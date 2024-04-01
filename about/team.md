@@ -294,5 +294,5 @@ hero_height: is_fullheight
 </body>
 
 <div style="padding-block: 20px;"><h3>Team Alumni</h3>
-Dave Gochis (NCAR), Kewei Chen (PNNL), Joe Beisman (LANL), Ilhan Ozgen (LBNL), Ahmad Jan (ORNL), Peishi Jiang (PNNL), Pin Shuai   (PNNL), Xuehang Song (PNNL), Hoang Tran  (Colorado School of Mines), Mary Michael (Colorado School of Mines), Jun Zhang  (University of Arizona), Jen Stayeart (University of Arizona), Daniel Livingston (LANL), Angelic Arzola Roig (LANL), Chen Yang (Princeton), Nichole Jeffery (LANL)
+Dave Gochis (NCAR), Kewei Chen (PNNL), Joe Beisman (LANL), Ilhan Ozgen (LBNL), Ahmad Jan (ORNL), Peishi Jiang (PNNL), Pin Shuai   (PNNL), Xuehang Song (PNNL), Hoang Tran  (Colorado School of Mines), Mary Michael (Colorado School of Mines), Jun Zhang  (University of Arizona), Jen Stayeart (University of Arizona), Daniel Livingston (LANL), Angelic Arzola Roig (LANL), Chen Yang (Princeton), Nicole Jeffery (LANL)
 </div>

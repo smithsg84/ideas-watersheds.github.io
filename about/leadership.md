@@ -33,35 +33,35 @@ IDEAS-Watersheds brings together efforts across multiple labs and universities.
   <div class="col1">
   <img class="alignleft" src="../img/photos/dmoulton.png" alt="David Moulton" width="150" height="150">
   </div>
-  <div class="col2"><strong>J. David Moulton, Project PI</strong><br>(Shared Infrastructure Activities Lead, Training/Community Building/Outreach Lead)<br><em>Los Alamos National Laboratory</em></div>
+  <div class="col2"><strong>David Moulton, Project PI</strong><br>(Shared Infrastructure Activities Lead, Training/Community Building/Outreach Lead)<br><em>Los Alamos National Laboratory</em></div>
 </div>
 
 <div class="cont">
   <div class="col1">
   <img class="alignleft" src="../img/photos/ssmith.png" alt="Steve Smith" width="150" height="150">
   </div>
-  <div class="col2"><strong>Steve Smith, Software Lead</strong><br>(Software Steward)<br><em>Lawrence Livermore National Laboratory</em></div>
+  <div class="col2"><strong>Steve Smith, Software Lead</strong><br>(Software Steward, Software Best Practices Seminar Series Lead)<br><em>Lawrence Livermore National Laboratory</em></div>
 </div>
 
 <div class="cont">
   <div class="col1">
   <img class="alignleft" src="../img/photos/smolins.png" alt="Sergi Molins" width="150" height="150">
   </div>
-  <div class="col2"><strong>Sergi Molins, Reaction Networks Cornerstone Co-Lead</strong><br>(Watershed Function SFA Partnership Lead, Fine-Scale Partnership Activity Lead, Software Steward)<br><em>Lawrence Berkeley National Laboratory</em></div>
+  <div class="col2"><strong>Sergi Molins, Watershed Function SFA Partnership Lead</strong><br>(Software Steward, Modeling Seminar Series Lead)<br><em>Lawrence Berkeley National Laboratory</em></div>
 </div>
 
 <div class="cont">
   <div class="col1">
   <img class="alignleft" src="../img/photos/spainter.png" alt="Scott Painter" width="150" height="150">
   </div>
-  <div class="col2"><strong>Scott Painter, Watershed Hydrobiogeochemistry Cornerstone Lead</strong><br>(Critical Interfaces SFA Partnership Lead)<br><em>Oak Ridge National Laboratory</em></div>
+  <div class="col2"><strong>Scott Painter, Science Lead </strong><br>(Critical Interfaces SFA Partnership Lead)<br><em>Oak Ridge National Laboratory</em></div>
 </div>
 
 <div class="cont">
   <div class="col1">
   <img class="alignleft" src="../img/photos/xchen.png" alt="Xingyuan Chen" width="150" height="150">
   </div>
-  <div class="col2"><strong>Xingyuan Chen, Reaction Networks Cornerstone Co-Lead</strong><br>(River Corridor SFA Partnership Lead)<br><em>Pacific Northwest National Laboratory</em></div>
+  <div class="col2"><strong>Xingyuan Chen, River Corridor SFA Partnership Lead</strong><br>(Plenary Seminar Series Lead)<br><em>Pacific Northwest National Laboratory</em></div>
 </div>
 
 <div class="cont">
@@ -82,15 +82,17 @@ IDEAS-Watersheds brings together efforts across multiple labs and universities.
   <div class="col1">
   <img class="alignleft" src="../img/photos/ecoon.png" alt="Ethan Coon" width="150" height="150">
   </div>
-  <div class="col2"><strong>Ethan Coon, Land Model Interface Lead</strong><br>(Software Steward)<br><em>University of Arizona</em></div>
+  <div class="col2"><strong>Ethan Coon, Software Steward</strong><br><em>Oak Ridge National Laboratory</em></div>
 </div>
 
 <div class="cont">
   <div class="col1">
   <img class="alignleft" src="../img/photos/ghammond.png" alt="Glenn Hammond" width="150" height="150">
   </div>
-  <div class="col2"><strong>Glenn Hammond, Software Steward</strong><br><em>University of Arizona</em></div>
+  <div class="col2"><strong>Glenn Hammond, Software Steward</strong><br><em>Pacific Northwest National Laboratory</em></div>
 </div>
+
+<!-- 
 
 <br>
 <strong>Project Coordinator:</strong> Position Open
@@ -99,4 +101,5 @@ IDEAS-Watersheds brings together efforts across multiple labs and universities.
 [IDEAS-Classic](https://ideas-productivity.org/ideas-classic/)<br>
 [IDEAS](https://ideas-productivity.org/)
 
+-->
 
